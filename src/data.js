@@ -26,6 +26,14 @@ const raw=[
  ['madeira-cliff-villa','Madeira Cliff Villa','Funchal','Madeira',1100000,'Villa',4,4,260,'1600607687939-ce8a6c25118c',3,'Sea View,Swimming Pool,Luxury'],
  ['calheta-sunset-home','Calheta Sunset Home','Calheta','Madeira',620000,'House',3,2,164,'1600566753051-f0b89df2dd90',3,'Sea View,Garden,Terrace'],
  ['obidos-stone-house','Óbidos Stone House','Óbidos','Silver Coast',440000,'House',3,2,177,'1600585152220-90363fe7e115',0,'Garden,Reduced Price,Fireplace'],
+ ['quinta-lagoa','Quinta da Lagoa','Almancil','Algarve',585000,'House',3,2,164,'1600566753086-00f18fb6b3ea',0,'Swimming Pool,Garden,Garage'],
+ ['praia-verde-villa','Praia Verde Villa','Castro Marim','Algarve',920000,'Villa',4,3,238,'1600607687920-4e2a09cf159d',0,'Sea View,Swimming Pool,Beach Nearby'],
+ ['principe-real-flat','Príncipe Real Flat','Lisbon','Lisbon',510000,'Apartment',1,1,71,'1600047509807-ba8f99d2cdde',1,'Furnished,Investment,Recently Added'],
+ ['carcavelos-light','Carcavelos Light','Carcavelos','Cascais',630000,'Apartment',2,2,102,'1600566753190-17f0baa2a6c3',1,'New Build,Terrace,Garage'],
+ ['foz-do-douro-apartment','Foz do Douro Apartment','Porto','Porto',550000,'Apartment',2,2,118,'1600566752355-35792bedcfea',2,'Sea View,Beach Nearby,Garage'],
+ ['douro-vineyard-home','Douro Vineyard Home','Peso da Régua','Porto',740000,'House',4,3,226,'1600585152220-90363fe7e115',2,'Garden,Swimming Pool,Investment'],
+ ['ponta-delgada-house','Ponta Delgada House','Ponta Delgada','Madeira',485000,'House',3,2,148,'1528127269322-539801943592',3,'Sea View,Garden,Reduced Price'],
+ ['nazare-cliff-house','Nazaré Cliff House','Nazaré','Silver Coast',695000,'House',3,2,186,'1494522358652-f30e61a60313',0,'Sea View,Terrace,Beach Nearby'],
 ];
 export const properties=raw.map((p,i)=>({id:i+1,slug:p[0],title:p[1],city:p[2],region:p[3],price:p[4],type:p[5],beds:p[6],baths:p[7],area:p[8],image:img(p[9]),agency:agencies[p[10]],features:p[11].split(','),ref:`PIP-${p[3].slice(0,3).toUpperCase()}-${23847+i}`,status:i===6?'Under Offer':'Live',featured:i<7,description:'Designed for effortless indoor-outdoor living, this beautifully considered home combines generous natural light, refined materials and a privileged Portuguese setting. Thoughtful proportions create quiet spaces for daily life and generous rooms for gathering.'}));
 export const developments=[
