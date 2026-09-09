@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.log
+qa-*.png
+.vercel/
+.env*
+!.env.example
