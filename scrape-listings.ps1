@@ -1,5 +1,16 @@
+[CmdletBinding()]
+param(
+  [int]$StartPage = 1,
+  [int]$EndPage = 8,
+  [string]$OutputPath = '.\src\scraped-listings.json'
+)
+
+if ($StartPage -lt 1 -or $EndPage -lt $StartPage) {
+  throw "Invalid page range: $StartPage-$EndPage"
+}
+
 $all=@()
-1..8 | ForEach-Object {
+$StartPage..$EndPage | ForEach-Object {
   $page=$_
   $url="https://www.propertiesinportugal.com/properties/for-sale?sort=latest&page=$page"
   try {
@@ -25,5 +36,9 @@ $all=@()
   Start-Sleep -Milliseconds 500
 }
 $all=$all | Group-Object sourceUrl | ForEach-Object {$_.Group[0]}
-$all | ConvertTo-Json -Depth 4 | Set-Content -Encoding UTF8 '.\src\scraped-listings.json'
+$outputDirectory = Split-Path -Parent $OutputPath
+if ($outputDirectory -and !(Test-Path $outputDirectory)) {
+  New-Item -ItemType Directory -Path $outputDirectory -Force | Out-Null
+}
+$all | ConvertTo-Json -Depth 4 | Set-Content -Encoding UTF8 $OutputPath
 Write-Output "saved $($all.Count)"
