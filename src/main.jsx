@@ -63,7 +63,9 @@ const nav = [
   ["Explore Portugal", "/#destinations"],
   ["Agencies", "/agencies"],
   ["News", "/news"],
-  ["Buying Guide", "/legal-support"],
+  ["Notary and legal support", "/legal-support"],
+  ["Mortgage simulator", "/mortgage"],
+  ["Private seller", "/private-seller"],
 ];
 const go = (p) => {
   history.pushState({}, "", p);
@@ -209,9 +211,9 @@ function Footer() {
         </div>
         <div>
           <h4>Buyer services</h4>
-          <Link to="/mortgage">Mortgage calculator</Link>
-          <Link to="/legal-support">Legal support</Link>
-          <Link to="/">Buying guide</Link>
+          <Link to="/mortgage">Mortgage simulator</Link>
+          <Link to="/legal-support">Notary and legal support</Link>
+          <Link to="/private-seller">Private seller</Link>
         </div>
         <div>
           <h4>Follow</h4>
@@ -2212,6 +2214,34 @@ function Legal() {
     </Shell>
   );
 }
+function PrivateSeller() {
+  return (
+    <Shell>
+      <section className="inner-hero shell">
+        <p className="eyebrow">SELL PRIVATELY</p>
+        <h1>
+          A clearer way
+          <br />
+          to sell your home.
+        </h1>
+        <p>
+          Tell us about your property and we’ll help you understand the next
+          steps for a private sale in Portugal.
+        </p>
+      </section>
+      <section className="support-form">
+        <div>
+          <h2>Start with your property.</h2>
+          <p>
+            Share a few details and a local property professional can guide you
+            through valuation, presentation and buyer enquiries.
+          </p>
+        </div>
+        <EnquiryForm subject="selling my property privately" />
+      </section>
+    </Shell>
+  );
+}
 function Favourites() {
   const [favs, setFavs] = useFavs();
   const ps = properties.filter((p) => favs.includes(p.id));
@@ -2276,6 +2306,7 @@ function Router() {
     return <PlaceholderPortal active="Settings" />;
   if (clean === "/mortgage") return <Mortgage />;
   if (clean === "/legal-support") return <Legal />;
+  if (clean === "/private-seller") return <PrivateSeller />;
   if (clean === "/account/favourites") return <Favourites />;
   return <Home />;
 }
