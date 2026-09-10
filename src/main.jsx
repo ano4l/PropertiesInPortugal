@@ -989,7 +989,6 @@ function Properties() {
     source: qs.get("source") || "",
   });
   const [sort, setSort] = useState("Recommended");
-  const [map, setMap] = useState(false);
   const [advanced, setAdvanced] = useState(false);
   const [visible, setVisible] = useState(24);
   const [favs, setFavs] = useFavs();
@@ -1057,23 +1056,14 @@ function Properties() {
               <option>Price high to low</option>
               <option>Largest first</option>
             </select>
-            <button
-              className={map ? "" : "active"}
-              onClick={() => setMap(false)}
-            >
+            <button className="active">
               <CirclesFour /> Grid
-            </button>
-            <button
-              className={map ? "active" : ""}
-              onClick={() => setMap(true)}
-            >
-              <MapPin /> Map
             </button>
           </div>
         </div>
       </section>
       {result.length ? (
-        <section className={`results shell ${map ? "map-mode" : ""}`}>
+        <section className="results shell">
           <div className="property-grid">
             {result.slice(0, visible).map((p) => (
               <PropertyCard key={p.id} p={p} favs={favs} setFavs={setFavs} />
@@ -1087,7 +1077,6 @@ function Properties() {
               </div>
             ) : null}
           </div>
-          {map && <MapView data={result} />}
         </section>
       ) : (
         <section className="empty shell">
@@ -1105,43 +1094,6 @@ function Properties() {
         </section>
       )}
     </Shell>
-  );
-}
-function MapView({ data }) {
-  const [pos, setPos] = useState(null);
-  return (
-    <div className="map">
-      <div className="map-label">
-        <MapPin /> Explore the map <span>Approximate demo locations</span>
-      </div>
-      {data.map((p, i) => (
-        <button
-          key={p.id}
-          onClick={() => setPos(p)}
-          style={{
-            left: `${12 + ((i * 23) % 75)}%`,
-            top: `${18 + ((i * 31) % 65)}%`,
-          }}
-        >
-          {short(p.price)}
-        </button>
-      ))}
-      {pos && (
-        <div className="map-preview">
-          <img src={pos.image} alt={`${pos.title} preview`} />
-          <div>
-            <b>{short(pos.price)}</b>
-            <span>{pos.title}</span>
-            <small>
-              {pos.city} · {pos.beds ? `${pos.beds} beds` : "Details on request"}
-            </small>
-          </div>
-          <Link to={`/properties/${pos.slug}`}>
-            <ArrowRight />
-          </Link>
-        </div>
-      )}
-    </div>
   );
 }
 function EnquiryForm({ subject }) {
