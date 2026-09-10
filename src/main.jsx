@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import React, { useEffect, useMemo, useRef, useState } from "react";
 import { createRoot } from "react-dom/client";
 import { AnimatePresence, motion } from "motion/react";
 import {
@@ -213,51 +213,276 @@ function Reveal({ children, className = "", delay = 0 }) {
     </motion.div>
   );
 }
-function SearchBar({ compact = false }) {
-  const [loc, setLoc] = useState("");
-  const [type, setType] = useState("");
-  const [max, setMax] = useState("");
+const filterParamKeys = {
+  location: "location",
+  type: "type",
+  min: "minPrice",
+  max: "maxPrice",
+  beds: "beds",
+  baths: "baths",
+  area: "minArea",
+  feature: "feature",
+  source: "source",
+};
+const emptyFilters = {
+  location: "",
+  type: "",
+  min: "",
+  max: "",
+  beds: "",
+  baths: "",
+  area: "",
+  feature: "",
+  source: "",
+};
+const propertyTypes = [
+  "Villa",
+  "Apartment",
+  "House",
+  "Townhouse",
+  "Land",
+  "Commercial",
+  "Farm",
+];
+const availableRegions = [...new Set(properties.map((p) => p.region))].sort();
+const propertySearchPath = (filters) => {
+  const params = new URLSearchParams();
+  Object.entries(filterParamKeys).forEach(([key, param]) => {
+    if (filters[key]) params.set(param, filters[key]);
+  });
+  return `/properties${params.toString() ? `?${params}` : ""}`;
+};
+
+const HomeSearchOptions = {
+  location: [
+    { label: "All Portugal", value: "" },
+    ...availableRegions.map((name) => ({ label: name, value: name })),
+  ],
+  type: [
+    { label: "Any property", value: "" },
+    ...propertyTypes.map((x) => ({ label: x, value: x })),
+  ],
+  min: [
+    { label: "No minimum", value: "" },
+    { label: "From €100k", value: "100000" },
+    { label: "From €250k", value: "250000" },
+    { label: "From €500k", value: "500000" },
+    { label: "From €750k", value: "750000" },
+    { label: "From €1m", value: "1000000" },
+  ],
+  max: [
+    { label: "No maximum", value: "" },
+    { label: "Up to €250k", value: "250000" },
+    { label: "Up to €500k", value: "500000" },
+    { label: "Up to €750k", value: "750000" },
+    { label: "Up to €1m", value: "1000000" },
+    { label: "Up to €1.5m", value: "1500000" },
+    { label: "Up to €2m", value: "2000000" },
+  ],
+  beds: [
+    { label: "Any bedrooms", value: "" },
+    { label: "1+ bedrooms", value: "1" },
+    { label: "2+ bedrooms", value: "2" },
+    { label: "3+ bedrooms", value: "3" },
+    { label: "4+ bedrooms", value: "4" },
+    { label: "5+ bedrooms", value: "5" },
+  ],
+  baths: [
+    { label: "Any bathrooms", value: "" },
+    { label: "1+ bathrooms", value: "1" },
+    { label: "2+ bathrooms", value: "2" },
+    { label: "3+ bathrooms", value: "3" },
+    { label: "4+ bathrooms", value: "4" },
+  ],
+  area: [
+    { label: "Any size", value: "" },
+    { label: "75+ m²", value: "75" },
+    { label: "100+ m²", value: "100" },
+    { label: "150+ m²", value: "150" },
+    { label: "250+ m²", value: "250" },
+  ],
+  feature: [
+    { label: "Any feature", value: "" },
+    ...[
+      "Swimming Pool",
+      "Sea View",
+      "Garden",
+      "Garage",
+      "Terrace",
+      "New Build",
+      "Golf",
+      "Reduced Price",
+    ].map((value) => ({ label: value, value })),
+  ],
+  source: [
+    { label: "All listings", value: "" },
+    { label: "Source catalogue", value: "scraped" },
+    { label: "Curated showcase", value: "curated" },
+  ],
+};
+
+function LeadPrompt({ filters, destination, onClose }) {
+  const dialogRef = useRef(null);
+  const [brief, setBrief] = useState("");
+  useEffect(() => {
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    const closeOnEscape = (event) => {
+      if (event.key === "Escape") {
+        onClose();
+        go(destination);
+      }
+    };
+    window.addEventListener("keydown", closeOnEscape);
+    dialogRef.current?.focus();
+    return () => {
+      document.body.style.overflow = previousOverflow;
+      window.removeEventListener("keydown", closeOnEscape);
+    };
+  }, [onClose]);
+
+  const continueToResults = () => {
+    onClose();
+    go(destination);
+  };
+  const saveBrief = (event) => {
+    event.preventDefault();
+    const savedEnquiries = JSON.parse(localStorage.getItem("pip-enquiries") || "[]");
+    localStorage.setItem(
+      "pip-enquiries",
+      JSON.stringify([
+        ...savedEnquiries,
+        {
+          id: `search-${Date.now()}`,
+          type: "property-search",
+          subject: "Property search brief",
+          brief: brief.trim(),
+          filters,
+          query: destination,
+          date: new Date().toISOString(),
+        },
+      ]),
+    );
+    continueToResults();
+  };
+
   return (
-    <div className={`searchbar ${compact ? "compact" : ""}`}>
-      <label>
-        <span>Location</span>
-        <input
-          value={loc}
-          onChange={(e) => setLoc(e.target.value)}
-          placeholder="Town, region or postcode"
-        />
-      </label>
-      <label>
-        <span>Property type</span>
-        <select value={type} onChange={(e) => setType(e.target.value)}>
-          <option value="">Any type</option>
-          <option>Villa</option>
-          <option>Apartment</option>
-          <option>House</option>
-          <option>Land</option>
-          <option>Commercial</option>
-        </select>
-      </label>
-      <label>
-        <span>Price</span>
-        <select value={max} onChange={(e) => setMax(e.target.value)}>
-          <option value="">Any price</option>
-          <option value="250000">Up to €250k</option>
-          <option value="500000">Up to €500k</option>
-          <option value="750000">Up to €750k</option>
-          <option value="1000000">Up to €1m</option>
-          <option value="2000000">Up to €2m</option>
-        </select>
-      </label>
-      <button
-        onClick={() =>
-          go(`/properties?location=${encodeURIComponent(loc)}&type=${type}&maxPrice=${max}`)
-        }
-        aria-label="Search"
+    <div
+      className="lead-backdrop"
+      role="presentation"
+      onMouseDown={(event) => {
+        if (event.target === event.currentTarget) continueToResults();
+      }}
+    >
+      <section
+        className="lead-dialog"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="lead-prompt-title"
+        tabIndex={-1}
+        ref={dialogRef}
       >
-        <MagnifyingGlass /> <span>Search</span>
-      </button>
+        <button className="lead-close" type="button" onClick={continueToResults} aria-label="Close and view results">
+          <X />
+        </button>
+        <div className="lead-kicker"><EnvelopeSimple /> A BETTER BRIEF, IF YOU WANT IT</div>
+        <h2 id="lead-prompt-title">Tell us what would make this search feel like yours.</h2>
+        <p className="lead-dialog-intro">
+          Add a few words about the home, lifestyle or must-haves you have in mind. It helps a local property professional sharpen the next suggestions.
+        </p>
+        <form onSubmit={saveBrief} className="lead-form">
+          <label htmlFor="property-brief">What are you looking for?</label>
+          <textarea
+            id="property-brief"
+            value={brief}
+            onChange={(event) => setBrief(event.target.value)}
+            placeholder="For example: a quiet two-bedroom apartment near the coast, with outdoor space for morning coffee."
+            rows="5"
+            required
+          />
+          <button className="button dark lead-submit" type="submit">
+            Save my brief & continue <ArrowRight />
+          </button>
+        </form>
+        <button className="lead-skip" type="button" onClick={continueToResults}>
+          Continue without sharing <ArrowRight />
+        </button>
+        <small>Your note stays in this demo browser and is saved with your chosen filters.</small>
+      </section>
     </div>
+  );
+}
+
+function HomeSearch() {
+  const [filters, setFilters] = useState(emptyFilters);
+  const [prompt, setPrompt] = useState(null);
+  const update = (key, value) => {
+    setFilters((current) => {
+      const next = { ...current, [key]: value };
+      if (key === "min" && value && next.max && +value > +next.max) next.max = "";
+      if (key === "max" && value && next.min && +value < +next.min) next.min = "";
+      return next;
+    });
+  };
+  const apply = (event) => {
+    event.preventDefault();
+    const destination = propertySearchPath(filters);
+    setPrompt({ filters: { ...filters }, destination });
+  };
+  return (
+    <>
+      <form className="home-search" onSubmit={apply}>
+        <div className="home-search-head">
+          <div>
+            <span className="home-search-label">START WITH THE DETAILS</span>
+            <strong>Shape your search.</strong>
+          </div>
+          <span className="home-search-count">9 ways to narrow it down</span>
+        </div>
+        <div className="home-search-grid">
+          <label className="home-search-field location-field">
+            <span>Location / region</span>
+            <FilterSelect value={filters.location} label="All Portugal" onChange={(value) => update("location", value)} options={HomeSearchOptions.location} />
+          </label>
+          <label className="home-search-field">
+            <span>Property type</span>
+            <FilterSelect value={filters.type} label="Any property" onChange={(value) => update("type", value)} options={HomeSearchOptions.type} />
+          </label>
+          <label className="home-search-field">
+            <span>Minimum price</span>
+            <FilterSelect value={filters.min} label="No minimum" onChange={(value) => update("min", value)} options={HomeSearchOptions.min} />
+          </label>
+          <label className="home-search-field">
+            <span>Maximum price</span>
+            <FilterSelect value={filters.max} label="No maximum" onChange={(value) => update("max", value)} options={HomeSearchOptions.max} />
+          </label>
+          <label className="home-search-field">
+            <span>Bedrooms</span>
+            <FilterSelect value={filters.beds} label="Any bedrooms" onChange={(value) => update("beds", value)} options={HomeSearchOptions.beds} />
+          </label>
+          <label className="home-search-field">
+            <span>Bathrooms</span>
+            <FilterSelect value={filters.baths} label="Any bathrooms" onChange={(value) => update("baths", value)} options={HomeSearchOptions.baths} />
+          </label>
+          <label className="home-search-field">
+            <span>Minimum interior area</span>
+            <FilterSelect value={filters.area} label="Any size" onChange={(value) => update("area", value)} options={HomeSearchOptions.area} />
+          </label>
+          <label className="home-search-field">
+            <span>Key feature</span>
+            <FilterSelect value={filters.feature} label="Any feature" onChange={(value) => update("feature", value)} options={HomeSearchOptions.feature} />
+          </label>
+          <label className="home-search-field">
+            <span>Listing source</span>
+            <FilterSelect value={filters.source} label="All listings" onChange={(value) => update("source", value)} options={HomeSearchOptions.source} />
+          </label>
+          <button className="home-search-submit" type="submit">
+            <MagnifyingGlass /> <span>Apply search</span>
+          </button>
+        </div>
+      </form>
+      {prompt ? <LeadPrompt filters={prompt.filters} destination={prompt.destination} onClose={() => setPrompt(null)} /> : null}
+    </>
   );
 }
 function PropertyCard({ p, favs, setFavs }) {
@@ -374,7 +599,7 @@ function Home() {
             Exceptional homes and new developments, brought together with
             trusted local expertise.
           </motion.p>
-          <SearchBar />
+          <HomeSearch />
         </div>
       </section>
       <section className="section shell">
@@ -533,27 +758,6 @@ function FilterSelect({ value, onChange, label, options }) {
     </div>
   );
 }
-const emptyFilters = {
-  location: "",
-  type: "",
-  min: "",
-  max: "",
-  beds: "",
-  baths: "",
-  area: "",
-  feature: "",
-  source: "",
-};
-const propertyTypes = [
-  "Villa",
-  "Apartment",
-  "House",
-  "Townhouse",
-  "Land",
-  "Commercial",
-  "Farm",
-];
-const availableRegions = [...new Set(properties.map((p) => p.region))].sort();
 function Filters({ state, setState, advanced, setAdvanced }) {
   const update = (key, value) => setState({ ...state, [key]: value });
   return (
@@ -751,7 +955,7 @@ function Properties() {
             (!state.baths || (p.baths && p.baths >= +state.baths)) &&
             (!state.area || (p.area && p.area >= +state.area)) &&
             (!state.feature || p.features.includes(state.feature)) &&
-            (!state.source || (state.source === "scraped" ? p.source === "scraped" : !p.source)),
+            (!state.source || (state.source === "scraped" ? p.source === "scraped" : p.source !== "scraped")),
         )
         .sort((a, b) =>
           sort === "Price low to high"
