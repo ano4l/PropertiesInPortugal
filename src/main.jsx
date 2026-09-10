@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import { createRoot } from "react-dom/client";
-import { AnimatePresence, motion } from "motion/react";
+import { AnimatePresence, motion, useReducedMotion } from "motion/react";
 import {
   ArrowRight,
   ArrowUpRight,
@@ -38,6 +38,7 @@ import {
   regions,
 } from "./data";
 import newsSnapshot from "./scraped-news.json";
+import { translateDocument } from "./i18n";
 import "./styles.css";
 import "./advanced.css";
 import "./refresh.css";
@@ -99,6 +100,44 @@ function Logo({ light = false }) {
     </Link>
   );
 }
+function TranslationWidget() {
+  const [locale, setLocale] = useState(() => {
+    try {
+      return localStorage.getItem("pip-locale") === "pt" ? "pt" : "en";
+    } catch {
+      return "en";
+    }
+  });
+  useEffect(() => {
+    document.documentElement.lang = locale === "pt" ? "pt-PT" : "en";
+    translateDocument(locale);
+    const onRouteChange = () => requestAnimationFrame(() => translateDocument(locale));
+    const observer = new MutationObserver(() => {
+      if (locale === "pt") requestAnimationFrame(() => translateDocument(locale));
+    });
+    window.addEventListener("popstate", onRouteChange);
+    observer.observe(document.body, { childList: true, subtree: true, characterData: true });
+    return () => {
+      window.removeEventListener("popstate", onRouteChange);
+      observer.disconnect();
+    };
+  }, [locale]);
+  const choose = (next) => {
+    try {
+      localStorage.setItem("pip-locale", next);
+    } catch {
+      // Translation still works for the current session if storage is unavailable.
+    }
+    setLocale(next);
+  };
+  return (
+    <div className="language-widget" role="group" aria-label={locale === "pt" ? "Idioma do site" : "Site language"}>
+      <button type="button" className={locale === "en" ? "active" : ""} aria-pressed={locale === "en"} onClick={() => choose("en")}>EN</button>
+      <span aria-hidden="true">/</span>
+      <button type="button" className={locale === "pt" ? "active" : ""} aria-pressed={locale === "pt"} onClick={() => choose("pt")}>PT</button>
+    </div>
+  );
+}
 function Header() {
   const [open, setOpen] = useState(false);
   return (
@@ -113,6 +152,7 @@ function Header() {
           ))}
         </nav>
         <div className="nav-actions">
+          <TranslationWidget />
           <Link to="/account/favourites">
             <Heart /> Saved
           </Link>
@@ -141,6 +181,7 @@ function Header() {
                 {n}
               </Link>
             ))}
+            <TranslationWidget />
             <Link to="/agency">Agency portal</Link>
           </motion.div>
         )}
@@ -195,9 +236,25 @@ function Shell({ children }) {
   return (
     <>
       <Header />
-      <main>{children}</main>
+      <PageTransition key={location.pathname}>
+        <main>{children}</main>
+      </PageTransition>
       <Footer />
     </>
+  );
+}
+function PageTransition({ children }) {
+  const reduceMotion = useReducedMotion();
+  return (
+    <motion.div
+      key={location.pathname + location.search}
+      className="route-content"
+      initial={reduceMotion ? false : { opacity: 0, y: 8 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.32, ease: [0.22, 1, 0.36, 1] }}
+    >
+      {children}
+    </motion.div>
   );
 }
 function Reveal({ children, className = "", delay = 0 }) {
@@ -476,9 +533,11 @@ function HomeSearch() {
             <span>Listing source</span>
             <FilterSelect value={filters.source} label="All listings" onChange={(value) => update("source", value)} options={HomeSearchOptions.source} />
           </label>
-          <button className="home-search-submit" type="submit">
-            <MagnifyingGlass /> <span>Apply search</span>
-          </button>
+          <div className="home-search-actions">
+            <button className="home-search-submit" type="submit">
+              <MagnifyingGlass /> <span>Apply search</span>
+            </button>
+          </div>
         </div>
       </form>
       {prompt ? <LeadPrompt filters={prompt.filters} destination={prompt.destination} onClose={() => setPrompt(null)} /> : null}
@@ -1575,12 +1634,13 @@ function AgencyLayout({ children, active }) {
       </aside>
       <main>
         <div className="portal-top">
+          <TranslationWidget />
           <div>
             <small>Casa Nova Portugal</small>
             <b>MF</b>
           </div>
         </div>
-        {children}
+        <PageTransition key={location.pathname}>{children}</PageTransition>
       </main>
     </div>
   );
