@@ -1,0 +1,3219 @@
+{
+  "source": "https://www.propertiesinportugal.com/agents",
+  "scrapedAt": "2026-09-10T07:41:15.745Z",
+  "records": [
+    {
+      "slug": "2easy-costa-de-prata",
+      "name": "2easy Costa de Prata",
+      "ami": "18887",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1660-2easy-Costa-de-Prata.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/2easy-costa-de-prata/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua Júlio Dinis, 147, 3880-238 Ovar"
+    },
+    {
+      "slug": "2easy-horizonte",
+      "name": "2easy Horizonte",
+      "ami": "12829",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1323-2easyHorizonte.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/2easy-horizonte/properties/for-sale",
+      "propertyCount": 29,
+      "location": "Rua António Teixeira Lopes, Loja 1-B, 2700-089 Amadora"
+    },
+    {
+      "slug": "a-minha-casa",
+      "name": "A Minha Casa",
+      "ami": "11757",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1462-A-minha-casa.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/a-minha-casa/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Urbanização Vinha, Lote 3 R/ch, 5210-244 Miranda do Douro"
+    },
+    {
+      "slug": "abc-imobiliaria",
+      "name": "ABC Imobiliária",
+      "ami": "7157",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1459-ABC-Imobiliaria.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/abc-imobiliaria/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua do Outeiro, 48 -Gião, Santa Maria da Feira, 4525-308 Gião"
+    },
+    {
+      "slug": "abloom",
+      "name": "Abloom",
+      "ami": "8946",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1470-abloom.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/abloom/properties/for-sale",
+      "propertyCount": 48,
+      "location": "Rua do Comércio, Edifício Mendonça Lj A , 8135-127 Almancil"
+    },
+    {
+      "slug": "acps-real-estate",
+      "name": "ACPS Real Estate",
+      "ami": "12086",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1065-ACPS.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/acps-real-estate/properties/for-sale",
+      "propertyCount": 30,
+      "location": "Rua Gago Coutinho, no 75, 8150-151 Sao Brás de Alportel"
+    },
+    {
+      "slug": "aestas",
+      "name": "Aestas",
+      "ami": "14696",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1121-1121-1121-Aestas.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/aestas/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua Vasco da Gama, 34, 8600-722 Lagos"
+    },
+    {
+      "slug": "alentejo-investment-center-real-estate",
+      "name": "Alentejo Investment Center Real Estate",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1631-1631-1631-AICRE.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/alentejo-investment-center-real-estate/properties/for-sale",
+      "propertyCount": 46,
+      "location": ""
+    },
+    {
+      "slug": "algarve-home-sales",
+      "name": "Algarve Home Sales",
+      "ami": "3328",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1047-1047-1047-AlgarveHomeSales.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/algarve-home-sales/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua do Barranco, Urbanização Colina Verde, Lote 11, Loja D, 8400-508 Carvoeiro"
+    },
+    {
+      "slug": "algarve-homes",
+      "name": "Algarve Homes",
+      "ami": "175",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1076-Algarve-Homes.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/algarve-homes/properties/for-sale",
+      "propertyCount": 0,
+      "location": ", São Brás de Alportel & Santa Bárbara de Nexe"
+    },
+    {
+      "slug": "algarve-property",
+      "name": "Algarve Property",
+      "ami": "2196",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1030-1030-1030-AlgarveProperty.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/algarve-property/properties/for-sale",
+      "propertyCount": 465,
+      "location": "Avenida da Marina BL19, L45, 8125-401 Vilamoura"
+    },
+    {
+      "slug": "algarve-property-agency",
+      "name": "Algarve Property Agency",
+      "ami": "9004",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1075-Algarve-Property-Agency.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/algarve-property-agency/properties/for-sale",
+      "propertyCount": 19,
+      "location": ""
+    },
+    {
+      "slug": "all-real-estate",
+      "name": "All Real Estate",
+      "ami": "13212",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1588-All-Real-Estate.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/all-real-estate/properties/for-sale",
+      "propertyCount": 53,
+      "location": "Lagos,"
+    },
+    {
+      "slug": "ana-morgado-properties",
+      "name": "ANA MORGADO Properties",
+      "ami": "15258",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1062-1062-1062-Ana-Morgado.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/ana-morgado-properties/properties/for-sale",
+      "propertyCount": 8,
+      "location": "Viela da Beloura, 4 - Galerias ALPHA MALL - Loja 17 - Quinta da Beloura, 2710-693 Sintra"
+    },
+    {
+      "slug": "angariax",
+      "name": "ANGARIAX",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1289-ANGARIAX.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/angariax/properties/for-sale",
+      "propertyCount": 159,
+      "location": ""
+    },
+    {
+      "slug": "apartamentocom",
+      "name": "Apartamento.Com",
+      "ami": "18414",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1435-Apartamento.com.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/apartamentocom/properties/for-sale",
+      "propertyCount": 10,
+      "location": "Lisboa,"
+    },
+    {
+      "slug": "apt--empreendimentos-imobiliarios-s-a-",
+      "name": "APT - Empreendimentos Imobiliários, S.A.",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1430-aptimobiliario.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/apt--empreendimentos-imobiliarios-s-a-/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "area-imobiliaria-conde-brandao",
+      "name": "Área Imobiliária Conde & Brandão",
+      "ami": "2628",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Area-Conde-a-Brandao.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/area-imobiliaria-conde-brandao/properties/for-sale",
+      "propertyCount": 9,
+      "location": "Edifício Corticeiro Rua Conselheiro Luís de Magalhães, 62 Loja AY , 3800-137 Aveiro"
+    },
+    {
+      "slug": "aritmetica-acontece",
+      "name": "Aritmética Acontece",
+      "ami": "",
+      "logoUrl": "",
+      "sourceUrl": "https://www.propertiesinportugal.com/aritmetica-acontece/properties/for-sale",
+      "propertyCount": 2,
+      "location": ""
+    },
+    {
+      "slug": "arrabell-immo-terraces-jardins",
+      "name": "Arrabell Immo Terraces Jardins",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1496-1496-Arrbell-immo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/arrabell-immo-terraces-jardins/properties/for-sale",
+      "propertyCount": 51,
+      "location": ""
+    },
+    {
+      "slug": "artte-consultores",
+      "name": "Artte Consultores",
+      "ami": "14516",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1294-Artte.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/artte-consultores/properties/for-sale",
+      "propertyCount": 34,
+      "location": "Cais Fonte Nova Lt 5 Lj3, 3810-200 Aveiro"
+    },
+    {
+      "slug": "at-madeira-realty",
+      "name": "At Madeira Realty",
+      "ami": "19946",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/logo-at-madeira.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/at-madeira-realty/properties/for-sale",
+      "propertyCount": 25,
+      "location": ""
+    },
+    {
+      "slug": "atlanta-imobiliaria",
+      "name": "Atlanta Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1609-1609-Atlanta-Imbobiliaria.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/atlanta-imobiliaria/properties/for-sale",
+      "propertyCount": 76,
+      "location": ""
+    },
+    {
+      "slug": "atual-imobiliaria",
+      "name": "Atual Imobiliária",
+      "ami": "13850",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1508-Atual-Imobiliaria.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/atual-imobiliaria/properties/for-sale",
+      "propertyCount": 77,
+      "location": ""
+    },
+    {
+      "slug": "aurora-imobiliaria",
+      "name": "Aurora Imobiliária",
+      "ami": "20287",
+      "logoUrl": "",
+      "sourceUrl": "https://www.propertiesinportugal.com/aurora-imobiliaria/properties/for-sale",
+      "propertyCount": 64,
+      "location": "Rua 19, 884, 4500-253 Espinho"
+    },
+    {
+      "slug": "avenida-property",
+      "name": "Avenida Property",
+      "ami": "9393",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1118-1118-avenidaproperty.jpeg",
+      "sourceUrl": "https://www.propertiesinportugal.com/avenida-property/properties/for-sale",
+      "propertyCount": 85,
+      "location": ""
+    },
+    {
+      "slug": "awantt-prime",
+      "name": "Awantt Prime",
+      "ami": "16732",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1507-Awantt-Prime.jpeg",
+      "sourceUrl": "https://www.propertiesinportugal.com/awantt-prime/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua Raimundo Carvalho, 151 , 4430-186 Vila Nova de Gaia"
+    },
+    {
+      "slug": "azimoveis",
+      "name": "Azimóveis",
+      "ami": "19049",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1582-Azimoveis.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/azimoveis/properties/for-sale",
+      "propertyCount": 50,
+      "location": "Torre Brasil, Rua Comissão da Iniciativa, Lote 13, n.º 512, 2410-098 Leiria"
+    },
+    {
+      "slug": "azul-properties",
+      "name": "Azul Properties",
+      "ami": "5604",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1547-AZUL-PROPERTIES-LOGO.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/azul-properties/properties/for-sale",
+      "propertyCount": 26,
+      "location": "Loja E, Edifício Fonte Nova, EN 125 , 8100-069 Fonte de Boliqueime"
+    },
+    {
+      "slug": "bandp-real-estate",
+      "name": "B&P Real Estate",
+      "ami": "5418",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1432-1432-BaP.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/bandp-real-estate/properties/for-sale",
+      "propertyCount": 184,
+      "location": "Av. dos Descobrimentos, 1, 8600-645 Lagos"
+    },
+    {
+      "slug": "balihouse",
+      "name": "BALIHOUSE",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1351-balihouse.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/balihouse/properties/for-sale",
+      "propertyCount": 6,
+      "location": ""
+    },
+    {
+      "slug": "balsainvest",
+      "name": "BalsaInvest",
+      "ami": "17067",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1056-1056-BalsaInvest.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/balsainvest/properties/for-sale",
+      "propertyCount": 0,
+      "location": "R. Veríssimo de Almeida 26 R/C, 8000-444 Faro"
+    },
+    {
+      "slug": "bateria",
+      "name": "BATERIA",
+      "ami": "22357",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/bateria-logo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/bateria/properties/for-sale",
+      "propertyCount": 9,
+      "location": "R. Policarpo Anjos 73B Moradia, 1495-744 Cruz Quebrada"
+    },
+    {
+      "slug": "batista-property",
+      "name": "Batista property",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1461-Batista-property.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/batista-property/properties/for-sale",
+      "propertyCount": 44,
+      "location": ""
+    },
+    {
+      "slug": "beaver",
+      "name": "Beaver",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1503-beaver.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/beaver/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "bella-casa",
+      "name": "Bella Casa",
+      "ami": "12072",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1561-Bella-Casa.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/bella-casa/properties/for-sale",
+      "propertyCount": 30,
+      "location": "Av. Dr. Lourenço Peixinho, nº10, Centro Comercial Avenida Loja 23 , 3800-159 Aveiro"
+    },
+    {
+      "slug": "bewelcome",
+      "name": "BEWELCOME",
+      "ami": "18254",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1064-bewelcome.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/bewelcome/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Estoril,"
+    },
+    {
+      "slug": "bis3imo",
+      "name": "Bis3Imo",
+      "ami": "18815",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1559-Bis3Imo.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/bis3imo/properties/for-sale",
+      "propertyCount": 35,
+      "location": "Rua Monte da Bela nº 35/49 Armazém M, 4445-294 Ermesinde"
+    },
+    {
+      "slug": "blive",
+      "name": "BLIVE",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1343-blive-imoveis.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/blive/properties/for-sale",
+      "propertyCount": 2,
+      "location": ""
+    },
+    {
+      "slug": "bluecoast",
+      "name": "BLUECOAST",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1450-bluecoast.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/bluecoast/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "boavista",
+      "name": "Boavista",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1415-1415-Boavista.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/boavista/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "bold-house",
+      "name": "Bold House",
+      "ami": "22163",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/bold-house-logo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/bold-house/properties/for-sale",
+      "propertyCount": 77,
+      "location": "Urbanização Quinta da Cabreira, n.º 61 B, 2070-162 Cartaxo"
+    },
+    {
+      "slug": "bonus-panorama",
+      "name": "Bónus Panorama",
+      "ami": "14260",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Bo--nus-Panorama.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/bonus-panorama/properties/for-sale",
+      "propertyCount": 6,
+      "location": "Avenida da República, nº75 - , Algés"
+    },
+    {
+      "slug": "bp-algarve-realty",
+      "name": "BP Algarve Realty",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1512-BP-Algarve-Realty.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/bp-algarve-realty/properties/for-sale",
+      "propertyCount": 9,
+      "location": ""
+    },
+    {
+      "slug": "bragatitude",
+      "name": "BragAtitude",
+      "ami": "6786",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1483-1483-Bragatitude.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/bragatitude/properties/for-sale",
+      "propertyCount": 1116,
+      "location": "Rua Conhecimento, nº 10, 4730-575 Soutelo"
+    },
+    {
+      "slug": "bruno-reis",
+      "name": "Bruno Reis",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1658-greenmadeira.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/bruno-reis/properties/for-sale",
+      "propertyCount": 1,
+      "location": ""
+    },
+    {
+      "slug": "buyme-prestige",
+      "name": "BUYME Prestige",
+      "ami": "4587",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1125-1125-buymeprestige.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/buyme-prestige/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Avenida Cerro da Villa – Edf. Aquamar, Loja 4, 8125-403 Vilamoura"
+    },
+    {
+      "slug": "caetano-real-estate",
+      "name": "Caetano Real Estate",
+      "ami": "11389",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1484-1484-caetano-real-estate.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/caetano-real-estate/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Estrada Regional Nº101 nº 2, Edifício Sol Nascente r/c loja B, 8125-406 Quateira"
+    },
+    {
+      "slug": "calico-silva-consulting-lda",
+      "name": "Caliço & Silva Consulting LDA",
+      "ami": "23238",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/logo-20ces-20consutling-20--20branco.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/calico-silva-consulting-lda/properties/for-sale",
+      "propertyCount": 4,
+      "location": ""
+    },
+    {
+      "slug": "campus-place",
+      "name": "CAMPUS PLACE",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1332-Campus-Place.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/campus-place/properties/for-sale",
+      "propertyCount": 234,
+      "location": ""
+    },
+    {
+      "slug": "carduus",
+      "name": "Carduus",
+      "ami": "",
+      "logoUrl": "",
+      "sourceUrl": "https://www.propertiesinportugal.com/carduus/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "carleton",
+      "name": "Carleton",
+      "ami": "9174",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1498-Carleton-Properties.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/carleton/properties/for-sale",
+      "propertyCount": 35,
+      "location": "Estrada do Farol, Apts. D. João, Lj 5 R/C, 8400-505 Carvoeiro"
+    },
+    {
+      "slug": "carvoeiro-clube-real-estate",
+      "name": "Carvoeiro Clube Real Estate",
+      "ami": "23227",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/carvoeiro-clube-real-estate.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/carvoeiro-clube-real-estate/properties/for-sale",
+      "propertyCount": 19,
+      "location": "R. do Monte, , 8400-518 Carvoeiro"
+    },
+    {
+      "slug": "casa-capital",
+      "name": "Casa Capital",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1452-1452-Casa-Capital.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/casa-capital/properties/for-sale",
+      "propertyCount": 120,
+      "location": ""
+    },
+    {
+      "slug": "casa-exemplar",
+      "name": "Casa Exemplar",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1473-Casa-Exemplar.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/casa-exemplar/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "casa-nowa",
+      "name": "Casa Nowa",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1314-casanowa.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/casa-nowa/properties/for-sale",
+      "propertyCount": 25,
+      "location": ""
+    },
+    {
+      "slug": "casa-click",
+      "name": "Casa-Click",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1595-Casa-Click.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/casa-click/properties/for-sale",
+      "propertyCount": 63,
+      "location": ""
+    },
+    {
+      "slug": "casa9a",
+      "name": "Casa9a",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1354-1354-Casa-9A.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/casa9a/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "casafacil",
+      "name": "CasaFácil",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/logo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/casafacil/properties/for-sale",
+      "propertyCount": 31,
+      "location": ""
+    },
+    {
+      "slug": "casaiberia-mediacao-imobiliaria-lda-",
+      "name": "Casaibéria Mediação Imobiliária Lda.",
+      "ami": "7513",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1029-1029-CasaIberia-1.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/casaiberia-mediacao-imobiliaria-lda-/properties/for-sale",
+      "propertyCount": 260,
+      "location": "Parque Empresarial do Algarve, Lote 37, 1º andar, 8400-431 Lagoa"
+    },
+    {
+      "slug": "casas-da-villa-mediacao-imobiliaria-lda-",
+      "name": "Casas da Villa – Mediação Imobiliária, Lda.",
+      "ami": "19727",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1634-Casas-da-Villa.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/casas-da-villa-mediacao-imobiliaria-lda-/properties/for-sale",
+      "propertyCount": 62,
+      "location": "Rua Dr. Cândido de Pinho, nº 16, 4520-211 Santa Maria da Feira"
+    },
+    {
+      "slug": "casas-de-coracao",
+      "name": "Casas de Coração",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1453-Casas-de-Coracao.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/casas-de-coracao/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "casas-do-barlavento",
+      "name": "Casas do Barlavento",
+      "ami": "5486",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/FotoPerfil-Idealista-CDB.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/casas-do-barlavento/properties/for-sale",
+      "propertyCount": 67,
+      "location": "Avenida dos Descobrimentos, Lote 7, R/C Esq., 8600-645 Lagos"
+    },
+    {
+      "slug": "casas-do-sotavento",
+      "name": "Casas do Sotavento",
+      "ami": "10136",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1105-1105-CasasdoSotavento.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/casas-do-sotavento/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua da Misericórdia nº 3, 7300-141 Portalegre"
+    },
+    {
+      "slug": "casasgo",
+      "name": "CasasGO",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1355-1355-Cassago.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/casasgo/properties/for-sale",
+      "propertyCount": 149,
+      "location": ""
+    },
+    {
+      "slug": "castelo-real-estate",
+      "name": "Castelo Real Estate",
+      "ami": "23137",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Logo-horizontal-1.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/castelo-real-estate/properties/for-sale",
+      "propertyCount": 1,
+      "location": "Rotunda dos Pastorinhos, Ed. Parque dos Pastores - Loja 11, 2495-413 Fátima"
+    },
+    {
+      "slug": "caz-homes",
+      "name": "CAZ Homes",
+      "ami": "26032",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/caz-homes-logo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/caz-homes/properties/for-sale",
+      "propertyCount": 192,
+      "location": ""
+    },
+    {
+      "slug": "central-imobiliaria",
+      "name": "Central Imobiliaria",
+      "ami": "16207",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1123-centralimobiliaria.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/central-imobiliaria/properties/for-sale",
+      "propertyCount": 1,
+      "location": ""
+    },
+    {
+      "slug": "cerro-novo",
+      "name": "Cerro Novo",
+      "ami": "860",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1035-1035-CerroNovo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/cerro-novo/properties/for-sale",
+      "propertyCount": 58,
+      "location": "Rua Samora Barros, Loja 7, Centro Comercial Cerro Grande, 8200-178 Albufeira"
+    },
+    {
+      "slug": "cidalia-marques",
+      "name": "Cidália Marques",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1383-CidaliaMarques.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/cidalia-marques/properties/for-sale",
+      "propertyCount": 5,
+      "location": ""
+    },
+    {
+      "slug": "clover-homes",
+      "name": "CLOVER HOMES",
+      "ami": "21690",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Clover-Homes.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/clover-homes/properties/for-sale",
+      "propertyCount": 1,
+      "location": "Edf Bacara, R. das Estrelas 507, , 8125-468 Quarteira"
+    },
+    {
+      "slug": "cm-imobiliaria",
+      "name": "CM IMOBILIÁRIA",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1589-CM-Imobiliaria.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/cm-imobiliaria/properties/for-sale",
+      "propertyCount": 38,
+      "location": ""
+    },
+    {
+      "slug": "coldwell-banker--class",
+      "name": "Coldwell Banker - Class",
+      "ami": "6332",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Coldwell-Logo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/coldwell-banker--class/properties/for-sale",
+      "propertyCount": 33,
+      "location": "Largo dos Arautos, Nº 4A, 1990-221 Lisboa"
+    },
+    {
+      "slug": "compare",
+      "name": "COMPARE",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1327-compare20.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/compare/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "compass-property-sales",
+      "name": "Compass Property Sales",
+      "ami": "17591",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1054-1054-Compass.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/compass-property-sales/properties/for-sale",
+      "propertyCount": 43,
+      "location": "Rua de St Estevao, 25A, 8800-386 Tavira"
+    },
+    {
+      "slug": "compracasa-viseu-rossio",
+      "name": "CompraCasa Viseu Rossio",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1644-Compracasa-Viseu-Rossio.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/compracasa-viseu-rossio/properties/for-sale",
+      "propertyCount": 41,
+      "location": ""
+    },
+    {
+      "slug": "comprarcasa-agualva-cacem",
+      "name": "ComprarCasa Agualva Cacém",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1466-comprarcasa-Agualva-Cacem.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/comprarcasa-agualva-cacem/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "comprarcasa-angra",
+      "name": "ComprarCasa Angra",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1599-ComprarCasaAngra.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/comprarcasa-angra/properties/for-sale",
+      "propertyCount": 35,
+      "location": ""
+    },
+    {
+      "slug": "comprarcasa-azeitao",
+      "name": "ComprarCasa Azeitão",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1564-comprarcasa-azeitao.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/comprarcasa-azeitao/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "comprarcasa-beja",
+      "name": "ComprarCasa Beja",
+      "ami": "19079",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1103-COMPRARCASA-Beja.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/comprarcasa-beja/properties/for-sale",
+      "propertyCount": 13,
+      "location": "Rua 5 de Outubro nº 26-B, 7800-454 Beja"
+    },
+    {
+      "slug": "comprarcasa-caldas-da-rainha",
+      "name": "ComprarCasa Caldas da Rainha",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1480-Comprarcasa-Caldas-da-Rainha.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/comprarcasa-caldas-da-rainha/properties/for-sale",
+      "propertyCount": 60,
+      "location": ""
+    },
+    {
+      "slug": "comprarcasa-cascais",
+      "name": "ComprarCasa Cascais",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1515-Comprarcasa-Cascais.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/comprarcasa-cascais/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "comprarcasa-castelo-branco",
+      "name": "ComprarCasa Castelo Branco",
+      "ami": "19405",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/LOGO.jpeg",
+      "sourceUrl": "https://www.propertiesinportugal.com/comprarcasa-castelo-branco/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Av. de Espanha nr 10 r/ch lj dtª, 6000-078 Castelo Branco"
+    },
+    {
+      "slug": "comprarcasa-chaves",
+      "name": "ComprarCasa Chaves",
+      "ami": "10147",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1068-ComprarCasa-Chaves.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/comprarcasa-chaves/properties/for-sale",
+      "propertyCount": 177,
+      "location": "R. 1º de Dezembro 19, 5400-013 Chaves"
+    },
+    {
+      "slug": "comprarcasa-coimbra",
+      "name": "ComprarCasa Coimbra",
+      "ami": "17415",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1084-Comprarcasa.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/comprarcasa-coimbra/properties/for-sale",
+      "propertyCount": 80,
+      "location": "Rua Olivença, nº 15 Edificio Topázio, , 3000-306 Coimbra"
+    },
+    {
+      "slug": "comprarcasa-ermesinde",
+      "name": "ComprarCasa Ermesinde",
+      "ami": "10037",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1096-jf-ermesinde.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/comprarcasa-ermesinde/properties/for-sale",
+      "propertyCount": 56,
+      "location": ""
+    },
+    {
+      "slug": "comprarcasa-montijo",
+      "name": "ComprarCasa Montijo",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1587-ComprarCasaMontijo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/comprarcasa-montijo/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "comprarcasa-peniche",
+      "name": "ComprarCasa Peniche",
+      "ami": "5544",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1100-Comprarcasa-2.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/comprarcasa-peniche/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua Cidade de Seia, Edifício Berlenga Nº 7Loja 6, 2520-303 Peniche"
+    },
+    {
+      "slug": "comprarcasa-ponta-delgada",
+      "name": "ComprarCasa Ponta Delgada",
+      "ami": "10697",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1055-ComprarCasa-Ponta-Delgada.gif",
+      "sourceUrl": "https://www.propertiesinportugal.com/comprarcasa-ponta-delgada/properties/for-sale",
+      "propertyCount": 73,
+      "location": "Rua Bento José Morais, 17, São Pedro, 9500-772 Ponta Delgada"
+    },
+    {
+      "slug": "comprarcasa-setubal-estadio",
+      "name": "ComprarCasa Setúbal Estádio",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1472-comprarcasa.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/comprarcasa-setubal-estadio/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "comprarcasa-valenca",
+      "name": "ComprarCasa Valença",
+      "ami": "13927",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1119-Comprarcasa-3.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/comprarcasa-valenca/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "comvista-lisboa",
+      "name": "Comvista Lisboa",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1364-Comvista.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/comvista-lisboa/properties/for-sale",
+      "propertyCount": 1,
+      "location": ""
+    },
+    {
+      "slug": "costa-properties",
+      "name": "Costa Properties",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1576-1576-Costa-Properties.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/costa-properties/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "cr-pro",
+      "name": "CR Pro",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1573-CRP.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/cr-pro/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "cs-imobiliaria",
+      "name": "CS Imobiliaria",
+      "ami": "19270",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1594-CSimobiliaria.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/cs-imobiliaria/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua da Quinta lote 10 3ºD , 2860-448 Moita"
+    },
+    {
+      "slug": "dalma-portuguesa",
+      "name": "D'Alma Portuguesa",
+      "ami": "14347",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1090-Dalma-Portuguesa.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/dalma-portuguesa/properties/for-sale",
+      "propertyCount": 49,
+      "location": "Bairro dos Pescadores nº31 , 8200-017 Albufeira"
+    },
+    {
+      "slug": "dacosta-realty",
+      "name": "DaCosta Realty",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1439-DaCosta-Realty.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/dacosta-realty/properties/for-sale",
+      "propertyCount": 6,
+      "location": ""
+    },
+    {
+      "slug": "david-soraia-imobiliaria",
+      "name": "David Soraia Imobiliária",
+      "ami": "21794",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/david-soraia.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/david-soraia-imobiliaria/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Estrada Nacional, Nº 253, 1º, Tróia Grândola, 7570-789 Setubal"
+    },
+    {
+      "slug": "dcc-investments",
+      "name": "DCC Investments",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1510-DCC-Investments.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/dcc-investments/properties/for-sale",
+      "propertyCount": 16,
+      "location": ""
+    },
+    {
+      "slug": "de-brito-properties",
+      "name": "De Brito Properties",
+      "ami": "10352",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1072-DeBrito.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/de-brito-properties/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "decisoes-e-solucoes-tomar",
+      "name": "Decisões e Soluções Tomar",
+      "ami": "14248",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/ds.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/decisoes-e-solucoes-tomar/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Av. Ângela Tamagnini, 33 , 2300-437 Tomar"
+    },
+    {
+      "slug": "different-blossom",
+      "name": "Different Blossom",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1560-Different-Blossom.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/different-blossom/properties/for-sale",
+      "propertyCount": 10,
+      "location": ""
+    },
+    {
+      "slug": "distinct-real-estate",
+      "name": "Distinct Real Estate",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1412-Distinct.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/distinct-real-estate/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "divine-home",
+      "name": "Divine Home",
+      "ami": "11606",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1083-1083-DivineHome.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/divine-home/properties/for-sale",
+      "propertyCount": 248,
+      "location": "Albufeira, Moncarapacho, São Brás de Alportel,"
+    },
+    {
+      "slug": "dlogic",
+      "name": "DLOGIC",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1633-D-LOGIC.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/dlogic/properties/for-sale",
+      "propertyCount": 31,
+      "location": ""
+    },
+    {
+      "slug": "domus-plaza",
+      "name": "Domus Plaza",
+      "ami": "8683",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1088-1088-Domus-Plaza.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/domus-plaza/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "domus-tributo",
+      "name": "Domus Tributo",
+      "ami": "16899",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1130-1130-domustributo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/domus-tributo/properties/for-sale",
+      "propertyCount": 163,
+      "location": ""
+    },
+    {
+      "slug": "douro-lovers",
+      "name": "Douro Lovers",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1436-Douro-Lovers-1.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/douro-lovers/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "ds-frielas",
+      "name": "DS FRIELAS",
+      "ami": "24382",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/ds-2.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/ds-frielas/properties/for-sale",
+      "propertyCount": 9,
+      "location": ""
+    },
+    {
+      "slug": "ds-sines",
+      "name": "DS Sines",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1566-Decisoes-e-Solucoes.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/ds-sines/properties/for-sale",
+      "propertyCount": 24,
+      "location": ""
+    },
+    {
+      "slug": "ds-vila-nova-da-barquinha",
+      "name": "DS Vila Nova da Barquinha",
+      "ami": "19872",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/ds-1.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/ds-vila-nova-da-barquinha/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "duoplace",
+      "name": "DuoPlace",
+      "ami": "",
+      "logoUrl": "",
+      "sourceUrl": "https://www.propertiesinportugal.com/duoplace/properties/for-sale",
+      "propertyCount": 10,
+      "location": ""
+    },
+    {
+      "slug": "east-algarve-property-brokers",
+      "name": "East Algarve Property Brokers",
+      "ami": "13450",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1110-eastalgarve.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/east-algarve-property-brokers/properties/for-sale",
+      "propertyCount": 9,
+      "location": ""
+    },
+    {
+      "slug": "ekasa",
+      "name": "Ekasa",
+      "ami": "9733",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1102-Ekasa-Imobiliaria.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/ekasa/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "elite-trofa",
+      "name": "Elite Trofa",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1526-Elite-Trofa.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/elite-trofa/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "em-casa",
+      "name": "Em Casa",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1485-Em-Casa.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/em-casa/properties/for-sale",
+      "propertyCount": 63,
+      "location": ""
+    },
+    {
+      "slug": "engel-volkers-portimao",
+      "name": "Engel & Völkers Portimão",
+      "ami": "14061",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1386-1386-Engel-Volkers-Portimao.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/engel-volkers-portimao/properties/for-sale",
+      "propertyCount": 74,
+      "location": "Praça Visconde Bívar-Edifício Atrium Arade n.º 2, 8500-544 Portimão"
+    },
+    {
+      "slug": "era-almancil",
+      "name": "ERA Almancil",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1382-1382-Era-Almancil.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/era-almancil/properties/for-sale",
+      "propertyCount": 168,
+      "location": ""
+    },
+    {
+      "slug": "esfera-domus",
+      "name": "Esfera Domus",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1627-esferadomus.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/esfera-domus/properties/for-sale",
+      "propertyCount": 20,
+      "location": ""
+    },
+    {
+      "slug": "eu-imobiliaria",
+      "name": "EU Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1408-eu-imobiliaria.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/eu-imobiliaria/properties/for-sale",
+      "propertyCount": 58,
+      "location": ""
+    },
+    {
+      "slug": "exicionax",
+      "name": "EXICIONAX",
+      "ami": "",
+      "logoUrl": "",
+      "sourceUrl": "https://www.propertiesinportugal.com/exicionax/properties/for-sale",
+      "propertyCount": 6,
+      "location": ""
+    },
+    {
+      "slug": "falcao-real-estate-agency",
+      "name": "Falcão Real Estate Agency",
+      "ami": "23239",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/falcao.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/falcao-real-estate-agency/properties/for-sale",
+      "propertyCount": 181,
+      "location": "Avenida D. Afonso Henriques n.º 23, 2000-179 Santarém"
+    },
+    {
+      "slug": "fastighetsbyran",
+      "name": "Fastighetsbyran",
+      "ami": "10369",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1520-1520-Fastighetsbyran.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/fastighetsbyran/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua do Baluarte No 31, 8600-561 Lagos"
+    },
+    {
+      "slug": "feganvillas",
+      "name": "feganvillas",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1350-1350-fegan-villas.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/feganvillas/properties/for-sale",
+      "propertyCount": 40,
+      "location": ""
+    },
+    {
+      "slug": "fenix-mediacao-imobiliaria",
+      "name": "Fenix Mediação Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1465-Fenix-Imobiliaria---Maria-Fernanda-Estrada-Correia.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/fenix-mediacao-imobiliaria/properties/for-sale",
+      "propertyCount": 43,
+      "location": ""
+    },
+    {
+      "slug": "fercor-imobiliaria",
+      "name": "FERCOR IMOBILIÁRIA",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1523-Fercor.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fercor-imobiliaria/properties/for-sale",
+      "propertyCount": 8,
+      "location": ""
+    },
+    {
+      "slug": "fernando-vaz",
+      "name": "Fernando Vaz",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1418-Fernando-Vaz.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fernando-vaz/properties/for-sale",
+      "propertyCount": 4,
+      "location": ""
+    },
+    {
+      "slug": "fika-real-estate",
+      "name": "FIKA Real Estate",
+      "ami": "",
+      "logoUrl": "",
+      "sourceUrl": "https://www.propertiesinportugal.com/fika-real-estate/properties/for-sale",
+      "propertyCount": 10,
+      "location": ""
+    },
+    {
+      "slug": "first-level-real-estate",
+      "name": "First Level Real Estate",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1593-first-level-real-estate.gif",
+      "sourceUrl": "https://www.propertiesinportugal.com/first-level-real-estate/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "fleximo",
+      "name": "FLEXIMO",
+      "ami": "",
+      "logoUrl": "",
+      "sourceUrl": "https://www.propertiesinportugal.com/fleximo/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "fortune-living",
+      "name": "Fortune Living",
+      "ami": "9281",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1037-Fortune-Living.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fortune-living/properties/for-sale",
+      "propertyCount": 10,
+      "location": "Vila Sol Shopping - Loja 28, 8125-307 Quarteira"
+    },
+    {
+      "slug": "fraccao-exacta-porto-areosa",
+      "name": "Fracção Exacta Porto Areosa",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1614-Fraccao-exacta-ponta-areosa.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-porto-areosa/properties/for-sale",
+      "propertyCount": 38,
+      "location": "Rua Municipio de São Domingos Lote 3 R/C, Lagoa, Lagoa, 8400-416 Lagoa"
+    },
+    {
+      "slug": "fraccao-exacta-porto-marques",
+      "name": "Fracção Exacta Porto Marquês",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1646-Fraccao-Exacta-Porto-Marques.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-porto-marques/properties/for-sale",
+      "propertyCount": 11,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-aguas-santas",
+      "name": "Fracção Exacta Águas Santas",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1622-Fraccao-Exacta-Aguas-Santas.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-aguas-santas/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-alto-da-maia",
+      "name": "Fracção Exacta Alto da Maia",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1625-Fraccao-Exacta-Alto-da-Maia.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-alto-da-maia/properties/for-sale",
+      "propertyCount": 13,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-ermesinde",
+      "name": "Fracção Exacta Ermesinde",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1623-Fraccao-Exacta-Ermesinde.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-ermesinde/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-espinho",
+      "name": "Fracção Exacta Espinho",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1619-Fraccao-Exacta-Espinho.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-espinho/properties/for-sale",
+      "propertyCount": 16,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-fanzeres-gondomar",
+      "name": "Fracção Exacta Fânzeres Gondomar",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1621-Fraccao-Exacta-Fanzeres-Gondomar.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-fanzeres-gondomar/properties/for-sale",
+      "propertyCount": 30,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-gaia-centro",
+      "name": "Fracção Exacta Gaia Centro",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1649-1649-Fraccao-Exacta-Gaia-Centro.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-gaia-centro/properties/for-sale",
+      "propertyCount": 26,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-gaia-norte",
+      "name": "Fracção Exacta Gaia Norte",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1650-Fraccao-Exacta-Gaia-Norte.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-gaia-norte/properties/for-sale",
+      "propertyCount": 57,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-gaia-sul",
+      "name": "Fracção Exacta Gaia Sul",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1651-Fraccao-Exacta-Gaia-Sul.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-gaia-sul/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-gondomar",
+      "name": "Fracção Exacta Gondomar",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1620-Fraccao-Exacta-Gondomar.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-gondomar/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-maia",
+      "name": "Fracção Exacta Maia",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1624-Fraccao-Exacta-Maia-Centro.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-maia/properties/for-sale",
+      "propertyCount": 32,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-porto-areosa-",
+      "name": "Fracção Exacta Porto Areosa",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1648-Fraccao-Exacta-Porto-Areosa.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-porto-areosa-/properties/for-sale",
+      "propertyCount": 39,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-porto-boavista",
+      "name": "Fracção Exacta Porto Boavista",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1647-Fraccao-Exacta-Porto-Boavista.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-porto-boavista/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-porto-marques-",
+      "name": "Fracção Exacta Porto Marquês",
+      "ami": "",
+      "logoUrl": "",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-porto-marques-/properties/for-sale",
+      "propertyCount": 11,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-povoa-de-varzim",
+      "name": "Fracção Exacta Póvoa de Varzim",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1618-Fraccao-Exacta-Povoa-de-Varzim.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-povoa-de-varzim/properties/for-sale",
+      "propertyCount": 66,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-santa-maria-da-feira",
+      "name": "Fracção Exacta Santa Maria da Feira",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1626-Fraccao-Exacta-Santa-Maria-da-Feira.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-santa-maria-da-feira/properties/for-sale",
+      "propertyCount": 17,
+      "location": ""
+    },
+    {
+      "slug": "fraccao-exacta-sede",
+      "name": "Fracção Exacta Sede",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1611-fraccao-exacta.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/fraccao-exacta-sede/properties/for-sale",
+      "propertyCount": 211,
+      "location": ""
+    },
+    {
+      "slug": "frontal-imobiliaria",
+      "name": "Frontal Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1495-Frontal.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/frontal-imobiliaria/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "g3ne",
+      "name": "G3NE",
+      "ami": "20111",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1598-G3NE.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/g3ne/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua Ló Ferreira, nº 253, 2.º Fr, 4450-177 Matosinhos"
+    },
+    {
+      "slug": "gang-imobiliaria",
+      "name": "Gang Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1557-Gang-Imobiliaria.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/gang-imobiliaria/properties/for-sale",
+      "propertyCount": 30,
+      "location": ""
+    },
+    {
+      "slug": "gate-to-portugal",
+      "name": "Gate to Portugal",
+      "ami": "12657",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1522-GatetoPortugal.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/gate-to-portugal/properties/for-sale",
+      "propertyCount": 5,
+      "location": "Av. Atlantico, 16 - 14 piso - escr. 8, 1990-019 Lisboa"
+    },
+    {
+      "slug": "gestinga",
+      "name": "GESTINGA",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1331-Gestinga.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/gestinga/properties/for-sale",
+      "propertyCount": 24,
+      "location": ""
+    },
+    {
+      "slug": "gharb-villas",
+      "name": "Gharb Villas",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1531-Gharb-Villas.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/gharb-villas/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "gold-house",
+      "name": "Gold House",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1451-Goldhouse.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/gold-house/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "golden-key-imo",
+      "name": "GOLDEN KEY IMO",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1514-Golden-Key-1.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/golden-key-imo/properties/for-sale",
+      "propertyCount": 13,
+      "location": ""
+    },
+    {
+      "slug": "golden-key-imobiliaria",
+      "name": "GOLDEN KEY Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1509-Golden-Key.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/golden-key-imobiliaria/properties/for-sale",
+      "propertyCount": 13,
+      "location": ""
+    },
+    {
+      "slug": "golden-triangle-properties",
+      "name": "Golden Triangle Properties",
+      "ami": "12874",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1067-Golden-Triangle-Properties.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/golden-triangle-properties/properties/for-sale",
+      "propertyCount": 9,
+      "location": ""
+    },
+    {
+      "slug": "grupo-move",
+      "name": "Grupo Move",
+      "ami": "8968",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/logo-grupo-move-ballon.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/grupo-move/properties/for-sale",
+      "propertyCount": 912,
+      "location": "Avenida da Liberdade, C.C. Granjinhos, Loja 426, 4710-249 Braga"
+    },
+    {
+      "slug": "grupo-telmo-moreira",
+      "name": "Grupo Telmo Moreira",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1553-Grupo-Telmo-Moreira.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/grupo-telmo-moreira/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "habitazza",
+      "name": "Habitazza",
+      "ami": "18288",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1117-Habitazza.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/habitazza/properties/for-sale",
+      "propertyCount": 86,
+      "location": "Avenida Dom Sebastião, lote 129, Loja C, 8600-502 Lagos"
+    },
+    {
+      "slug": "habitual-real-estate",
+      "name": "HABITUAL REAL ESTATE",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1610-Habitual-Real-Estate.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/habitual-real-estate/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "hallstar-consultores-imobiliarios",
+      "name": "HALLSTAR Consultores Imobiliários",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1527-HALLSTAR-Consultores-Imobiliarios.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/hallstar-consultores-imobiliarios/properties/for-sale",
+      "propertyCount": 123,
+      "location": ""
+    },
+    {
+      "slug": "hmc-imobiliaria",
+      "name": "HMC Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1570-HMC.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/hmc-imobiliaria/properties/for-sale",
+      "propertyCount": 34,
+      "location": ""
+    },
+    {
+      "slug": "home-brand",
+      "name": "Home Brand",
+      "ami": "17914",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1070-HomeBrand.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/home-brand/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua do Cardoso, Nº 161, 4490-559 Póvoa de Varzim"
+    },
+    {
+      "slug": "homeprivilege--real-estate",
+      "name": "HomePrivilege - Real Estate",
+      "ami": "20078",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/home-privilege.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/homeprivilege--real-estate/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "hsinvest",
+      "name": "HSInvest",
+      "ami": "18123",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1059-HSInvest.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/hsinvest/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "hupii-mediacao-imobiliaria",
+      "name": "HUPii-Mediação Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1657-hupii.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/hupii-mediacao-imobiliaria/properties/for-sale",
+      "propertyCount": 8,
+      "location": ""
+    },
+    {
+      "slug": "iad-portugal",
+      "name": "iad Portugal",
+      "ami": "11220",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1499-IAD.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/iad-portugal/properties/for-sale",
+      "propertyCount": 5390,
+      "location": "Av. da Boavista 934, 4100-112 Porto"
+    },
+    {
+      "slug": "ideal-gest",
+      "name": "IDEAL GEST",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1428-Ideal-gest.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/ideal-gest/properties/for-sale",
+      "propertyCount": 13,
+      "location": ""
+    },
+    {
+      "slug": "ideal-homes-portugal",
+      "name": "Ideal Homes Portugal",
+      "ami": "9540",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1114-IDEAL-HOMES-PORTUGAL-2022.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/ideal-homes-portugal/properties/for-sale",
+      "propertyCount": 216,
+      "location": "Urbanização Vila Sol, Alto do Semino, Lote E, Lojas 1,2 & 3, 8125-307 Quarteira"
+    },
+    {
+      "slug": "idvelas",
+      "name": "Idvelas",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1429-idvelas.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/idvelas/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "imoaguiar",
+      "name": "Imoaguiar",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1635-Imoaguiar.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/imoaguiar/properties/for-sale",
+      "propertyCount": 35,
+      "location": ""
+    },
+    {
+      "slug": "imobarra",
+      "name": "IMOBARRA",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1554-ImoBarra.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/imobarra/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "imobiliaria-mirandelense",
+      "name": "Imobiliária Mirandelense",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1367-Imobiliaria-Mirandelense.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/imobiliaria-mirandelense/properties/for-sale",
+      "propertyCount": 34,
+      "location": ""
+    },
+    {
+      "slug": "imobiliaria-portuguesa",
+      "name": "Imobiliária Portuguesa",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1413-iportuguesa.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/imobiliaria-portuguesa/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "imocerta",
+      "name": "Imocerta",
+      "ami": "8359",
+      "logoUrl": "",
+      "sourceUrl": "https://www.propertiesinportugal.com/imocerta/properties/for-sale",
+      "propertyCount": 134,
+      "location": "R. Marquês Sá da Bandeira, 503, 4400-217 Vila Nova de Gaia"
+    },
+    {
+      "slug": "imocharme-imobiliaria",
+      "name": "ImoCharme Imobiliária",
+      "ami": "",
+      "logoUrl": "",
+      "sourceUrl": "https://www.propertiesinportugal.com/imocharme-imobiliaria/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "imodecor",
+      "name": "IMODECOR",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1339-Imodecor-1.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/imodecor/properties/for-sale",
+      "propertyCount": 75,
+      "location": ""
+    },
+    {
+      "slug": "imoespaco",
+      "name": "ImoEspaço",
+      "ami": "17577",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1111-ImoEspaco.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/imoespaco/properties/for-sale",
+      "propertyCount": 13,
+      "location": ""
+    },
+    {
+      "slug": "imofacanha",
+      "name": "IMOFAÇANHA",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1655-Imofacanha.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/imofacanha/properties/for-sale",
+      "propertyCount": 86,
+      "location": ""
+    },
+    {
+      "slug": "imofenix",
+      "name": "IMOFENIX",
+      "ami": "15969",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1063-Imofenix.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/imofenix/properties/for-sale",
+      "propertyCount": 67,
+      "location": "Edif. Bela Vista Lj 19, Largo dos Pintassilgos, 8200-083 Albufeira"
+    },
+    {
+      "slug": "imoindex",
+      "name": "Imoindex",
+      "ami": "9360",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1091-Imoindex.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/imoindex/properties/for-sale",
+      "propertyCount": 17,
+      "location": ""
+    },
+    {
+      "slug": "imolavita-mediacao-imobiliaria",
+      "name": "Imolavita-Mediação Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1426-Imoalvita.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/imolavita-mediacao-imobiliaria/properties/for-sale",
+      "propertyCount": 29,
+      "location": ""
+    },
+    {
+      "slug": "imoriver-imobiliaria",
+      "name": "Imoriver Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1477-Imoriver.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/imoriver-imobiliaria/properties/for-sale",
+      "propertyCount": 29,
+      "location": ""
+    },
+    {
+      "slug": "imoveis-portugal-port",
+      "name": "Imóveis Portugal Port",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/portugalport.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/imoveis-portugal-port/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "imovel-ideal-real-estate",
+      "name": "Imovel Ideal Real Estate",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1574-IMOVEL-IDEAL-Real-Estate.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/imovel-ideal-real-estate/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "impacto-mr-imobiliaria",
+      "name": "Impacto MR Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1506-Impacto.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/impacto-mr-imobiliaria/properties/for-sale",
+      "propertyCount": 284,
+      "location": ""
+    },
+    {
+      "slug": "infocco-real-estate-solutions",
+      "name": "InFocco Real Estate Solutions",
+      "ami": "16012",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1384-InFocco.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/infocco-real-estate-solutions/properties/for-sale",
+      "propertyCount": 22,
+      "location": "Rua Agonia Frasco nº118, 4490-456 Póvoa de Varzim"
+    },
+    {
+      "slug": "ins-home-virtual",
+      "name": "INS Home Virtual",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1517-INS-Home-Virtual.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/ins-home-virtual/properties/for-sale",
+      "propertyCount": 17,
+      "location": ""
+    },
+    {
+      "slug": "interneiva",
+      "name": "INTERNEIVA",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1656-interneiva.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/interneiva/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "invest-imoveis",
+      "name": "INVEST IMOVEIS",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1500-investimoveis.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/invest-imoveis/properties/for-sale",
+      "propertyCount": 62,
+      "location": ""
+    },
+    {
+      "slug": "invest-moreira",
+      "name": "Invest Moreira",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1298-Investmoreira.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/invest-moreira/properties/for-sale",
+      "propertyCount": 13,
+      "location": ""
+    },
+    {
+      "slug": "invest-wise",
+      "name": "Invest Wise",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1642-Invest-Wise.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/invest-wise/properties/for-sale",
+      "propertyCount": 25,
+      "location": ""
+    },
+    {
+      "slug": "irg-property",
+      "name": "IRG Property",
+      "ami": "8687",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1052-IRG-Property.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/irg-property/properties/for-sale",
+      "propertyCount": 23,
+      "location": "Estrada Quinta do Lago, 8135-160 Quinta do Lago"
+    },
+    {
+      "slug": "isarq",
+      "name": "ISARQ",
+      "ami": "12537",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1324-Isarq.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/isarq/properties/for-sale",
+      "propertyCount": 23,
+      "location": "Rua Engenheiro Ferreira Dias 161 E-416, 4100-247 Porto"
+    },
+    {
+      "slug": "ithlux-new-real-estate-concept",
+      "name": "Ithlux-New Real Estate Concept",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1440-Ithlux.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/ithlux-new-real-estate-concept/properties/for-sale",
+      "propertyCount": 119,
+      "location": ""
+    },
+    {
+      "slug": "itinerantancora-s-a-",
+      "name": "Itinerantâncora S.A.",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1632-Itinerantancora-S.A..jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/itinerantancora-s-a-/properties/for-sale",
+      "propertyCount": 156,
+      "location": ""
+    },
+    {
+      "slug": "iula-albuquerque-propriedades",
+      "name": "Iula Albuquerque Propriedades",
+      "ami": "14307",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1073-Iula-Albuquerque-Propriedades.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/iula-albuquerque-propriedades/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "j-c-leao-senhora-da-hora",
+      "name": "J C LEÃO SENHORA DA HORA",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1637-jcleao.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/j-c-leao-senhora-da-hora/properties/for-sale",
+      "propertyCount": 44,
+      "location": ""
+    },
+    {
+      "slug": "joao-passos-vitor-andrade",
+      "name": "João Passos & Vítor Andrade",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Remax.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/joao-passos-vitor-andrade/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "kaiser-properties",
+      "name": "Kaiser Properties",
+      "ami": "8389",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1443-Kaiser.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/kaiser-properties/properties/for-sale",
+      "propertyCount": 93,
+      "location": "Edifício MacGregor, Loja C, Estrada de Vale Rabelho, 8200-428 Albufeira"
+    },
+    {
+      "slug": "kasas-imo",
+      "name": "Kasas-Imo®",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1549-Kasas-Imo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/kasas-imo/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "key5",
+      "name": "Key5",
+      "ami": "18426",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1080-key5.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/key5/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "kw-flash",
+      "name": "KW Flash",
+      "ami": "7543",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1095-KW-Flash.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/kw-flash/properties/for-sale",
+      "propertyCount": 1176,
+      "location": "R. da Raminha 32b, 8500-826 Portimão"
+    },
+    {
+      "slug": "lagos-homes",
+      "name": "Lagos Homes",
+      "ami": "21692",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/lagos-homes-logo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/lagos-homes/properties/for-sale",
+      "propertyCount": 28,
+      "location": "R. Prof. Luis de Albuquerque 6, 8600-513 Lagos"
+    },
+    {
+      "slug": "land-houses-algarve",
+      "name": "Land & Houses Algarve",
+      "ami": "6232",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1043-Land-Houses.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/land-houses-algarve/properties/for-sale",
+      "propertyCount": 96,
+      "location": "Vilamoura and Tavira,"
+    },
+    {
+      "slug": "laws-property-portugal",
+      "name": "Laws Property Portugal",
+      "ami": "19476",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1676-Ann-Laws.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/laws-property-portugal/properties/for-sale",
+      "propertyCount": 19,
+      "location": "Vila Mós, Estrada Monte Carapeto, Porto de Mós, 8600-515 Lagos"
+    },
+    {
+      "slug": "legacy-real-estate-consulting",
+      "name": "Legacy Real Estate Consulting",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1597-Legacy-Group.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/legacy-real-estate-consulting/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "limadias-consultores",
+      "name": "Lima&Dias Consultores",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1340-ldimobiliaria.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/limadias-consultores/properties/for-sale",
+      "propertyCount": 15,
+      "location": ""
+    },
+    {
+      "slug": "lisbo-immo",
+      "name": "Lisbo Immo",
+      "ami": "",
+      "logoUrl": "",
+      "sourceUrl": "https://www.propertiesinportugal.com/lisbo-immo/properties/for-sale",
+      "propertyCount": 26,
+      "location": ""
+    },
+    {
+      "slug": "live-in-hollidays",
+      "name": "Live in Hollidays",
+      "ami": "5617",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1086-LIVE-IN-HOLIDAYS.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/live-in-hollidays/properties/for-sale",
+      "propertyCount": 66,
+      "location": "12 A Church Square, Old Village, 8125-429 Vilamoura"
+    },
+    {
+      "slug": "local-properties",
+      "name": "Local Properties",
+      "ami": "17839",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1106-Local-Properties.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/local-properties/properties/for-sale",
+      "propertyCount": 60,
+      "location": "Praça do Município, Loja 37 , 8600-744 Lagos"
+    },
+    {
+      "slug": "lusitania-properties",
+      "name": "Lusitania properties",
+      "ami": "13419",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1107-lusitaniaproperties.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/lusitania-properties/properties/for-sale",
+      "propertyCount": 27,
+      "location": ""
+    },
+    {
+      "slug": "luximos-christies-international",
+      "name": "LUXIMOS Christie´s International",
+      "ami": "9063",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/logotipo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/luximos-christies-international/properties/for-sale",
+      "propertyCount": 448,
+      "location": "Av. Brasil n.º 227, 4150-152 Porto"
+    },
+    {
+      "slug": "lx-invogue",
+      "name": "LX INVOGUE",
+      "ami": "10563",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/LX-Invogue.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/lx-invogue/properties/for-sale",
+      "propertyCount": 34,
+      "location": "Avenida 5 de Outubro 102 - 2º andar Sala J, , 1050-060 Lisboa"
+    },
+    {
+      "slug": "m-dream-property",
+      "name": "M Dream Property",
+      "ami": "18208",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1101-DreamsProperty.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/m-dream-property/properties/for-sale",
+      "propertyCount": 23,
+      "location": "Avenida Infante Sagres, nº109, Bloco B, Loja A, Vilamoura, 8125-156 Quarteira"
+    },
+    {
+      "slug": "mackenzie",
+      "name": "Mackenzie",
+      "ami": "9757",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1023-Mackenzie.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/mackenzie/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua do Pinhal Lote 37 Loja 9 CP106Z, Pinhal do Concelho, 8200-593 Albufeira"
+    },
+    {
+      "slug": "mada-imobiliaria",
+      "name": "MADA Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1535-Mada-Imobiliaria.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/mada-imobiliaria/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "madeira-top",
+      "name": "Madeira Top",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1297-MadeiraTop.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/madeira-top/properties/for-sale",
+      "propertyCount": 3,
+      "location": ""
+    },
+    {
+      "slug": "maisproximus",
+      "name": "MAISPROXIMUS",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/maisproximus.gif",
+      "sourceUrl": "https://www.propertiesinportugal.com/maisproximus/properties/for-sale",
+      "propertyCount": 82,
+      "location": ""
+    },
+    {
+      "slug": "manemac-consultoria-unipessoal-lda",
+      "name": "MANEMAC Consultoria Unipessoal LDA",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Manemac.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/manemac-consultoria-unipessoal-lda/properties/for-sale",
+      "propertyCount": 8,
+      "location": ""
+    },
+    {
+      "slug": "marcela-properties",
+      "name": "Marcela Properties",
+      "ami": "1538",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/05-MARCELA---Logo-2024.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/marcela-properties/properties/for-sale",
+      "propertyCount": 218,
+      "location": "Rua 25 Abril, 31, 8600-763 Lagos"
+    },
+    {
+      "slug": "maria-bravo-consulting",
+      "name": "Maria Bravo Consulting",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Maria-Bravo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/maria-bravo-consulting/properties/for-sale",
+      "propertyCount": 17,
+      "location": ""
+    },
+    {
+      "slug": "max-village",
+      "name": "Max Village",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Max-Village.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/max-village/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "medi-house",
+      "name": "Medi-House",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Medi-House.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/medi-house/properties/for-sale",
+      "propertyCount": 13,
+      "location": ""
+    },
+    {
+      "slug": "mediala--solucoes-imobiliarias",
+      "name": "Mediala - Soluções Imobiliárias",
+      "ami": "22810",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/mediala.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/mediala--solucoes-imobiliarias/properties/for-sale",
+      "propertyCount": 6,
+      "location": "São Pedro do Sul, 3660-645 Viseu"
+    },
+    {
+      "slug": "medida-base-unipessoal-lda",
+      "name": "Medida Base, Unipessoal Lda",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Medida-Base--Unipessoal-Lda.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/medida-base-unipessoal-lda/properties/for-sale",
+      "propertyCount": 5,
+      "location": ""
+    },
+    {
+      "slug": "meridian-stripes",
+      "name": "Meridian Stripes",
+      "ami": "15387",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Meridian-Stripes.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/meridian-stripes/properties/for-sale",
+      "propertyCount": 4,
+      "location": "R. da Igreja nº 17, 8365-061 Algoz"
+    },
+    {
+      "slug": "mimosaproperties--imobiliara--real-estate--makelaars",
+      "name": "Mimosaproperties - Imobiliára / Real Estate / Makelaars",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/mimosaproperties.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/mimosaproperties--imobiliara--real-estate--makelaars/properties/for-sale",
+      "propertyCount": 177,
+      "location": ""
+    },
+    {
+      "slug": "minhos-guest",
+      "name": "Minho´s Guest",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/MinhosGuest.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/minhos-guest/properties/for-sale",
+      "propertyCount": 69,
+      "location": ""
+    },
+    {
+      "slug": "miracasas",
+      "name": "MiraCasas",
+      "ami": "16118",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/MiraCasas.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/miracasas/properties/for-sale",
+      "propertyCount": 32,
+      "location": ""
+    },
+    {
+      "slug": "miriam-guerreiro",
+      "name": "Miriam Guerreiro",
+      "ami": "17356",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Miriam-Guerreiro-01.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/miriam-guerreiro/properties/for-sale",
+      "propertyCount": 6,
+      "location": ", Cascais"
+    },
+    {
+      "slug": "mmgha",
+      "name": "MMGHA",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/mmgha-1.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/mmgha/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "modo-e-circunstancia-unipessoal-lda-",
+      "name": "Modo e Circunstância Unipessoal, Lda.",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1302-globalimobiliaria.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/modo-e-circunstancia-unipessoal-lda-/properties/for-sale",
+      "propertyCount": 296,
+      "location": ""
+    },
+    {
+      "slug": "monoplagox-imobiliaria",
+      "name": "MONOPLAGOX Imobiliária",
+      "ami": "",
+      "logoUrl": "",
+      "sourceUrl": "https://www.propertiesinportugal.com/monoplagox-imobiliaria/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "nacional-imobiliaria",
+      "name": "Nacional Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Nacional.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/nacional-imobiliaria/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "new-imo",
+      "name": "New Imo",
+      "ami": "11924",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/NewImo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/new-imo/properties/for-sale",
+      "propertyCount": 46,
+      "location": "Rua de Angola, nº42, Loja I, 3800-380 Aveiro"
+    },
+    {
+      "slug": "new-residence",
+      "name": "New Residence",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/New-Residence.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/new-residence/properties/for-sale",
+      "propertyCount": 13,
+      "location": ""
+    },
+    {
+      "slug": "nibits",
+      "name": "Nibits",
+      "ami": "11987",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Nibits.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/nibits/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "nobleproperty",
+      "name": "Nobleproperty",
+      "ami": "15490",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Nobleproperty-2.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/nobleproperty/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "norimo",
+      "name": "Norimo",
+      "ami": "11693",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/NORIMO.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/norimo/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua Comendador Nelson Quintas, nº 78 , 4490-270 Póvoa de Varzim"
+    },
+    {
+      "slug": "o-seu-bairro",
+      "name": "O SEU BAIRRO",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/oseubairro.pt.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/o-seu-bairro/properties/for-sale",
+      "propertyCount": 13,
+      "location": ""
+    },
+    {
+      "slug": "oo-real-estate",
+      "name": "O&O Real Estate",
+      "ami": "5653",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/logo-oando.svg",
+      "sourceUrl": "https://www.propertiesinportugal.com/oo-real-estate/properties/for-sale",
+      "propertyCount": 45,
+      "location": ""
+    },
+    {
+      "slug": "oneills-property",
+      "name": "O'Neill's Property",
+      "ami": "11874",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/OaNeils-Property-Logo.jpeg",
+      "sourceUrl": "https://www.propertiesinportugal.com/oneills-property/properties/for-sale",
+      "propertyCount": 71,
+      "location": "Edificio Vila Marina, Marina de Vilamoura Loja 8 RC, , 8125-507 Quarteira"
+    },
+    {
+      "slug": "ocean-key-property",
+      "name": "Ocean Key Property",
+      "ami": "12176",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Ocean-Key-Property.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/ocean-key-property/properties/for-sale",
+      "propertyCount": 42,
+      "location": "Urb. O Monte, CC. Abel Carrasquinho, Lots 1, , 1 Andar, Fr. S Loja 15, Vale Rabelho, 8200-424 Guia"
+    },
+    {
+      "slug": "olive-homes",
+      "name": "Olive Homes",
+      "ami": "13432",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/OliveHomes.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/olive-homes/properties/for-sale",
+      "propertyCount": 159,
+      "location": "Edifício Alsakia, Lote LHM10, R/C, EP12 , Fonte Santa, 8125-020 Quarteira"
+    },
+    {
+      "slug": "olives",
+      "name": "Olives",
+      "ami": "18459",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Olives.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/olives/properties/for-sale",
+      "propertyCount": 26,
+      "location": "Rua Manuel Carvalho, 162, Pousada de Saramagos, 4770-405 Vila Nova de Famalicão"
+    },
+    {
+      "slug": "one-select-properties",
+      "name": "ONE Select Properties",
+      "ami": "11307",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/One-Select.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/one-select-properties/properties/for-sale",
+      "propertyCount": 20,
+      "location": "34 CAMINHO VALE DAS CANAS, 8135-144 Almancil"
+    },
+    {
+      "slug": "oporto-casa",
+      "name": "OPorto Casa",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Oporto-Casa.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/oporto-casa/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "orbistatus",
+      "name": "Orbistatus",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Orbistatus.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/orbistatus/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "palm-properties",
+      "name": "Palm Properties",
+      "ami": "16006",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Palm-Logo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/palm-properties/properties/for-sale",
+      "propertyCount": 58,
+      "location": "R. do Barranco, 8400-508 Carvoeiro"
+    },
+    {
+      "slug": "panoramic-properties",
+      "name": "Panoramic Properties",
+      "ami": "9571",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Panoramic-Properties.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/panoramic-properties/properties/for-sale",
+      "propertyCount": 50,
+      "location": "Rua do Barranco, Urb. Colina Verde, Lote 8 Loja A , 8400-508 Carvoeiro"
+    },
+    {
+      "slug": "patterson-properties",
+      "name": "Patterson Properties",
+      "ami": "9917",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Patterson.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/patterson-properties/properties/for-sale",
+      "propertyCount": 7,
+      "location": "Largo Eng. Sebastião Ramires, n. 4, 8800-059 Conceição de Tavira"
+    },
+    {
+      "slug": "pedra-hut-mediacao-imobiliaria-lda",
+      "name": "Pedra Hut Mediação Imobiliária Lda",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Pedra-Hut-Mediacao-Imobiliaria-Lda.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/pedra-hut-mediacao-imobiliaria-lda/properties/for-sale",
+      "propertyCount": 8,
+      "location": ""
+    },
+    {
+      "slug": "pedro-simoes-mediador-imobiliario",
+      "name": "Pedro Simões - Mediador imobiliário",
+      "ami": "",
+      "logoUrl": "",
+      "sourceUrl": "https://www.propertiesinportugal.com/pedro-simoes-mediador-imobiliario/properties/for-sale",
+      "propertyCount": 1,
+      "location": ""
+    },
+    {
+      "slug": "pera-premium-properties",
+      "name": "Pera Premium Properties",
+      "ami": "11034",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Pera-Premium-Properties.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/pera-premium-properties/properties/for-sale",
+      "propertyCount": 212,
+      "location": "Rua D. Carlos I, Edifício Oceanário Residence, bloco B, Loja E , 8500-607 Portimão"
+    },
+    {
+      "slug": "pjaferreira-sede",
+      "name": "PJAFerreira Sede",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/PJAFerreira-Logo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/pjaferreira-sede/properties/for-sale",
+      "propertyCount": 239,
+      "location": ""
+    },
+    {
+      "slug": "portaria-234-lda",
+      "name": "PORTARIA 234, LDA",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/portaria.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/portaria-234-lda/properties/for-sale",
+      "propertyCount": 17,
+      "location": ""
+    },
+    {
+      "slug": "portrait",
+      "name": "Portrait",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/logo-portrait.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/portrait/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "portugal-realty",
+      "name": "Portugal Realty",
+      "ami": "14158",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Portugal-Realty.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/portugal-realty/properties/for-sale",
+      "propertyCount": 36,
+      "location": ""
+    },
+    {
+      "slug": "prabitar",
+      "name": "Prabitar",
+      "ami": "570",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/prabitar.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/prabitar/properties/for-sale",
+      "propertyCount": 228,
+      "location": "Rua O Conimbricense, nº 64 - R/CH, 3000-504 Quinta da Portela"
+    },
+    {
+      "slug": "pratico-lar",
+      "name": "Pratico Lar",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Pratico-Lar.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/pratico-lar/properties/for-sale",
+      "propertyCount": 80,
+      "location": ""
+    },
+    {
+      "slug": "predial-invest",
+      "name": "Predial Invest",
+      "ami": "19293",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Predial-Invest.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/predial-invest/properties/for-sale",
+      "propertyCount": 9,
+      "location": "R. Mato 29 r/c, 3080-042 Figueira da Foz"
+    },
+    {
+      "slug": "predimoz-imobiliaria",
+      "name": "Predimoz Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/PREDIMOZ.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/predimoz-imobiliaria/properties/for-sale",
+      "propertyCount": 1,
+      "location": ""
+    },
+    {
+      "slug": "predivilla-imobiliaria",
+      "name": "PREDIVILLA Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Predivilla.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/predivilla-imobiliaria/properties/for-sale",
+      "propertyCount": 104,
+      "location": ""
+    },
+    {
+      "slug": "prestigio-imobiliaria",
+      "name": "Prestígio Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Prestigio-Imobiliaria-1.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/prestigio-imobiliaria/properties/for-sale",
+      "propertyCount": 36,
+      "location": ""
+    },
+    {
+      "slug": "prime-land",
+      "name": "Prime Land",
+      "ami": "17399",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/prime-land-1.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/prime-land/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua Forte Monte Cintra, Loja 1D, Urbanização do Real Forte, Lisbon"
+    },
+    {
+      "slug": "prime-properties-madeira",
+      "name": "Prime Properties Madeira",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Prime-Properties-Madeira.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/prime-properties-madeira/properties/for-sale",
+      "propertyCount": 72,
+      "location": ""
+    },
+    {
+      "slug": "primeiro-degrau",
+      "name": "Primeiro Degrau",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Primeiro-Degrau.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/primeiro-degrau/properties/for-sale",
+      "propertyCount": 62,
+      "location": ""
+    },
+    {
+      "slug": "prisma-dourado-mediacao-imobiliaria-lda",
+      "name": "Prisma Dourado- Mediação Imobiliária Lda",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/prisma-dourado.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/prisma-dourado-mediacao-imobiliaria-lda/properties/for-sale",
+      "propertyCount": 36,
+      "location": ""
+    },
+    {
+      "slug": "private-luxury-collection",
+      "name": "Private Luxury Collection",
+      "ami": "19171",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/PrivateLuxuryCollection.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/private-luxury-collection/properties/for-sale",
+      "propertyCount": 74,
+      "location": "Caminho das Searas 50, 8125-417 Vilamoura"
+    },
+    {
+      "slug": "projecto-perfeito",
+      "name": "Projecto Perfeito",
+      "ami": "8481",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/projectoperfeito.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/projecto-perfeito/properties/for-sale",
+      "propertyCount": 629,
+      "location": ""
+    },
+    {
+      "slug": "proluna-properties-lda",
+      "name": "Proluna Properties Lda",
+      "ami": "10970",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Proluna.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/proluna-properties-lda/properties/for-sale",
+      "propertyCount": 49,
+      "location": "Praia Verde 127, 8950-434 Castro Marim"
+    },
+    {
+      "slug": "proposta-capital-mediacao-imobiliaria",
+      "name": "Proposta Capital Mediação Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Proposta-Capital-Imobiliaria.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/proposta-capital-mediacao-imobiliaria/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "prummo-porto",
+      "name": "Prummo Porto",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Prummo-Porto.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/prummo-porto/properties/for-sale",
+      "propertyCount": 88,
+      "location": ""
+    },
+    {
+      "slug": "quinta-da-palmeira",
+      "name": "Quinta da Palmeira",
+      "ami": "5796",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/quintadapalmeira.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/quinta-da-palmeira/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Apolónia Supermercados , Urb. Gramital Lt2, EN124-1, 8400-428 Lagoa"
+    },
+    {
+      "slug": "quintahills",
+      "name": "Quintahills",
+      "ami": "16431",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Quintahills.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/quintahills/properties/for-sale",
+      "propertyCount": 22,
+      "location": ""
+    },
+    {
+      "slug": "quintas-casas-bespoke-property-services",
+      "name": "Quintas & Casas Bespoke Property Services",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/QuintasaCasas.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/quintas-casas-bespoke-property-services/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "r-town-property",
+      "name": "R-Town Property",
+      "ami": "16340",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Rtown.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/r-town-property/properties/for-sale",
+      "propertyCount": 22,
+      "location": "Rua Fialho de Almeida nº14 , 2º Esqº , Esc BG17 , 1070-129 Lisboa"
+    },
+    {
+      "slug": "real-home-unipessoal-lda",
+      "name": "Real Home Unipessoal Lda",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Real-Home-Unipessoal-Lda.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/real-home-unipessoal-lda/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "realcolmo-consultoria-e-investimentos-lda-",
+      "name": "Realcolmo Consultoria e Investimentos Lda.",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1315-colmo.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/realcolmo-consultoria-e-investimentos-lda-/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "realize-solucoes-imobiliarias",
+      "name": "Realize Soluções Imobiliárias",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Realize-Solucoes-Imobiliarias.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/realize-solucoes-imobiliarias/properties/for-sale",
+      "propertyCount": 76,
+      "location": ""
+    },
+    {
+      "slug": "realty-11",
+      "name": "Realty 11",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Realty-11.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/realty-11/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "red-blue-portugal-imobiliaria",
+      "name": "RED BLUE® Portugal Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/RED-BLUEr-Portugal-Imobiliaria.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/red-blue-portugal-imobiliaria/properties/for-sale",
+      "propertyCount": 2,
+      "location": ""
+    },
+    {
+      "slug": "remax-cidadela",
+      "name": "Remax Cidadela",
+      "ami": "6100",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Remax.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/remax-cidadela/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "renovaluga",
+      "name": "RenovAluga",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/RenovAluga.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/renovaluga/properties/for-sale",
+      "propertyCount": 15,
+      "location": ""
+    },
+    {
+      "slug": "residents-real-estate",
+      "name": "Residents Real Estate",
+      "ami": "19489",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Residents.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/residents-real-estate/properties/for-sale",
+      "propertyCount": 198,
+      "location": "Caminho Fonte de Cima, nº 3, loja 128 , 4150-338 Porto"
+    },
+    {
+      "slug": "retail-urban",
+      "name": "Retail Urban",
+      "ami": "14947",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/retailurban.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/retail-urban/properties/for-sale",
+      "propertyCount": 10,
+      "location": ""
+    },
+    {
+      "slug": "revel-bliss-real-estate",
+      "name": "Revel Bliss Real Estate",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Revel-Bliss-Real-Estate.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/revel-bliss-real-estate/properties/for-sale",
+      "propertyCount": 13,
+      "location": ""
+    },
+    {
+      "slug": "rialtano-imobiliaria",
+      "name": "Rialtano Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Rialtano-Imobiliaria.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/rialtano-imobiliaria/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "rika-kaza",
+      "name": "Rika Kaza",
+      "ami": "19631",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Rika-Kasa.jpeg",
+      "sourceUrl": "https://www.propertiesinportugal.com/rika-kaza/properties/for-sale",
+      "propertyCount": 149,
+      "location": "Rua Cónego António Félix 14a, , 9020-417 Funchal"
+    },
+    {
+      "slug": "rivas",
+      "name": "Rivas",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Rivas.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/rivas/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "rm52-real-estate",
+      "name": "RM52 Real Estate",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/RM52-Real-Estate.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/rm52-real-estate/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "rosario-busch",
+      "name": "Rosario Busch",
+      "ami": "3824",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/rosariobusch.JPG",
+      "sourceUrl": "https://www.propertiesinportugal.com/rosario-busch/properties/for-sale",
+      "propertyCount": 12,
+      "location": "Buganvilia Plaza, Shop nº29 , 8134-013 Quinta do Lago"
+    },
+    {
+      "slug": "rui-mendes-imobiliaria",
+      "name": "Rui Mendes Imobiliária",
+      "ami": "12410",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Rui-Mendes.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/rui-mendes-imobiliaria/properties/for-sale",
+      "propertyCount": 4,
+      "location": "Rua Artur Napoleão, 194 , 4460-246 Senhora da Hora"
+    },
+    {
+      "slug": "russell-decoz",
+      "name": "Russell & Decoz",
+      "ami": "870",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Russell-a-Decoz.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/russell-decoz/properties/for-sale",
+      "propertyCount": 36,
+      "location": "Ave Maria Lizarda Palermo, 43a, 8700-081 Moncarapacho"
+    },
+    {
+      "slug": "sp-luxury-real-estate",
+      "name": "S&P LUXURY REAL ESTATE",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/SaP-Luxury-Real-Estate.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/sp-luxury-real-estate/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "salomon-realty",
+      "name": "Salomon Realty",
+      "ami": "21902",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/solomon-realty.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/salomon-realty/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua Joseph Bleck , N.º 55, Sub-Cave Direita, Dafundo Cruz Quebrada-Dafundo , 1495-724 Oeiras Lisboa"
+    },
+    {
+      "slug": "sampson-property",
+      "name": "Sampson Property",
+      "ami": "15430",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Sampson.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/sampson-property/properties/for-sale",
+      "propertyCount": 40,
+      "location": "Rua dos Pescadores 131, Loja 1, 8400-512 Carvoeiro"
+    },
+    {
+      "slug": "seatosky-homes",
+      "name": "SeaToSky Homes",
+      "ami": "11990",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/logo.260x50.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/seatosky-homes/properties/for-sale",
+      "propertyCount": 36,
+      "location": ""
+    },
+    {
+      "slug": "seewest-properties",
+      "name": "SeeWest Properties",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Seewest.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/seewest-properties/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "servesul",
+      "name": "Servesul",
+      "ami": "968",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/servesul.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/servesul/properties/for-sale",
+      "propertyCount": 47,
+      "location": "EN124, Avenida Marginal, Lote 6 , Edificio Plaza, Loja E, 8300-130 Silves"
+    },
+    {
+      "slug": "seven-quintas",
+      "name": "Seven Quintas",
+      "ami": "7490",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/sevenquintas.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/seven-quintas/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Centro O Tradicional, 1st Floor Rua do Comércio, 8136-906 Almancil"
+    },
+    {
+      "slug": "siignal-imobiliaria",
+      "name": "Siignal Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Siignal.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/siignal-imobiliaria/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "silver-holidays",
+      "name": "Silver Holidays",
+      "ami": "7557",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Silver-Holidays.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/silver-holidays/properties/for-sale",
+      "propertyCount": 40,
+      "location": "Rua do Brasil, Casa Italiana, loja 5, 8125-479 Vilamoura"
+    },
+    {
+      "slug": "sinergia-vertical",
+      "name": "Sinergia Vertical",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Sinergia-Vertical.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/sinergia-vertical/properties/for-sale",
+      "propertyCount": 1,
+      "location": ""
+    },
+    {
+      "slug": "sn-imobiliaria",
+      "name": "SN Imobiliária",
+      "ami": "",
+      "logoUrl": "",
+      "sourceUrl": "https://www.propertiesinportugal.com/sn-imobiliaria/properties/for-sale",
+      "propertyCount": 43,
+      "location": ""
+    },
+    {
+      "slug": "solucao-casa-liceu",
+      "name": "Solução Casa Liceu",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/solucaocasa.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/solucao-casa-liceu/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "sortami",
+      "name": "Sortami",
+      "ami": "6450",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/sortami.jpeg",
+      "sourceUrl": "https://www.propertiesinportugal.com/sortami/properties/for-sale",
+      "propertyCount": 718,
+      "location": "Av. da Marina, Edf. Biarritz, Loja 12 e 13, 8125-001 Vilamoura"
+    },
+    {
+      "slug": "sottomayor-properties",
+      "name": "SottoMayor Properties",
+      "ami": "21846",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/sottomayor-properties.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/sottomayor-properties/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "sousa-home",
+      "name": "Sousa Home",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Sousa-Home.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/sousa-home/properties/for-sale",
+      "propertyCount": 47,
+      "location": ""
+    },
+    {
+      "slug": "spacinvestments-real-estate",
+      "name": "SPACINVESTMENTS Real Estate",
+      "ami": "22194",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/spaceinvestments.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/spacinvestments-real-estate/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua José Sobral Cid 7, , 1900-289 LISBOA"
+    },
+    {
+      "slug": "sunnydraft",
+      "name": "SUNNYDRAFT",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Sunnydraft.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/sunnydraft/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "sunpoint",
+      "name": "Sunpoint",
+      "ami": "9545",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Sunpoint.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/sunpoint/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua 25 de Abril, 2 R/C, 8600-174 Praia da Luz"
+    },
+    {
+      "slug": "syleide-gadanho",
+      "name": "Syleide Gadanho",
+      "ami": "20231",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Syleide-Gadanho.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/syleide-gadanho/properties/for-sale",
+      "propertyCount": 5,
+      "location": "Covilhã,"
+    },
+    {
+      "slug": "tandp-mediacao-imobiliaria",
+      "name": "T&P Mediação Imobiliária",
+      "ami": "19389",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/TaP-Tanioa-a-Petrica.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/tandp-mediacao-imobiliaria/properties/for-sale",
+      "propertyCount": 4,
+      "location": "Rua do Campelo N242, r/c, cod. P. , Sobrado, 4440-348 Valongo"
+    },
+    {
+      "slug": "ten-hoopen-realty",
+      "name": "Ten Hoopen Realty",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Ten-Hoopen.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/ten-hoopen-realty/properties/for-sale",
+      "propertyCount": 106,
+      "location": ""
+    },
+    {
+      "slug": "ter-casa-em-portugal",
+      "name": "Ter Casa em Portugal",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/tercasaemportugal.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/ter-casa-em-portugal/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "teresa-ribeiro--remax",
+      "name": "Teresa Ribeiro - REMAX",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Teresa-Ribeiro.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/teresa-ribeiro--remax/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "the-real-estate-shop",
+      "name": "The Real Estate Shop",
+      "ami": "14313",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/53ademo-logo.jpeg",
+      "sourceUrl": "https://www.propertiesinportugal.com/the-real-estate-shop/properties/for-sale",
+      "propertyCount": 8,
+      "location": "Travessa Fábrica das Sedas, 28, 1250-108"
+    },
+    {
+      "slug": "tiko-portugal",
+      "name": "Tiko Portugal",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Tiko.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/tiko-portugal/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "to-live-david-goncalo-ferreira-lda-",
+      "name": "To Live – David, Gonçalo & Ferreira, Lda.",
+      "ami": "24759",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/logo-to-live.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/to-live-david-goncalo-ferreira-lda-/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "tquatro",
+      "name": "tquatro",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/tquatro.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/tquatro/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "tripalgarve-real-estate",
+      "name": "Tripalgarve Real Estate",
+      "ami": "11961",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Tripalgarve.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/tripalgarve-real-estate/properties/for-sale",
+      "propertyCount": 68,
+      "location": "Estrada Vale Rabelho, 8200-428 Guia, Albufeira"
+    },
+    {
+      "slug": "twinkle-people",
+      "name": "Twinkle People",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Twinkle-People.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/twinkle-people/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "ultimo-pilar-imobiliaria",
+      "name": "Último Pilar Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Ultimo-Pilar.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/ultimo-pilar-imobiliaria/properties/for-sale",
+      "propertyCount": 22,
+      "location": ""
+    },
+    {
+      "slug": "umseisum",
+      "name": "UmSeisUm",
+      "ami": "9309",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/logo-161.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/umseisum/properties/for-sale",
+      "propertyCount": 65,
+      "location": "R. de Mota Pinto 42 Loja 4, 4100-353 Porto"
+    },
+    {
+      "slug": "unique-invest",
+      "name": "Unique Invest",
+      "ami": "16089",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Unique-Invest.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/unique-invest/properties/for-sale",
+      "propertyCount": 125,
+      "location": "R. do Eng. Oudinot nº 37, , 3800-174 Aveiro"
+    },
+    {
+      "slug": "unu-domus",
+      "name": "UNU Domus",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/UNU.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/unu-domus/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "unu-family",
+      "name": "UNU FAMILY",
+      "ami": "19143",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/UNU-Family.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/unu-family/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua do Curado, Edifício Planície, Loja 4, piso 0, 2600-133 Vila Franca de Xira"
+    },
+    {
+      "slug": "unu-future",
+      "name": "UNU FUTURE",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/UNU.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/unu-future/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "unu-luxury-worldwide",
+      "name": "UNU Luxury Worldwide",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/UNU-Luxury-Worldwide.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/unu-luxury-worldwide/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "unu-pro",
+      "name": "UNU PRO",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/UNU-1.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/unu-pro/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "unu-solutions",
+      "name": "UNU Solutions",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/UNU-2.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/unu-solutions/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "unu-villa",
+      "name": "UNU VILLA",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/UNU-TAMEGA.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/unu-villa/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "unyk-place",
+      "name": "Unyk Place",
+      "ami": "19927",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/logo-unykplace.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/unyk-place/properties/for-sale",
+      "propertyCount": 29,
+      "location": ""
+    },
+    {
+      "slug": "urban-ready",
+      "name": "Urban Ready",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Urban-Ready.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/urban-ready/properties/for-sale",
+      "propertyCount": 4,
+      "location": ""
+    },
+    {
+      "slug": "van-rulo-real-estate",
+      "name": "Van Rulo Real Estate",
+      "ami": "25898",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Van-Rulo.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/van-rulo-real-estate/properties/for-sale",
+      "propertyCount": 11,
+      "location": "cxp 94S, Messines de Baixo,, Urb. Lagoa Sol Lote 3 R/C, 8375-046 São Bartolomeu de Messines"
+    },
+    {
+      "slug": "vanguard",
+      "name": "VANGUARD",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Vanguard.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/vanguard/properties/for-sale",
+      "propertyCount": 18,
+      "location": ""
+    },
+    {
+      "slug": "vap",
+      "name": "VAP",
+      "ami": "10094",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/VAP.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/vap/properties/for-sale",
+      "propertyCount": 289,
+      "location": ""
+    },
+    {
+      "slug": "vende-o-proprio",
+      "name": "Vende o Próprio",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Vende-o-proprio.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/vende-o-proprio/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "verde-imobiliaria",
+      "name": "Verde Imobiliária",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Verde-Imobiliario.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/verde-imobiliaria/properties/for-sale",
+      "propertyCount": 62,
+      "location": ""
+    },
+    {
+      "slug": "vernon",
+      "name": "Vernon",
+      "ami": "956",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/vernon.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/vernon/properties/for-sale",
+      "propertyCount": 32,
+      "location": "Rua do Povo do Burro, 1, 8400-502 Carvoeiro"
+    },
+    {
+      "slug": "vigintitrium-real-estate",
+      "name": "Vigintitrium Real Estate",
+      "ami": "17498",
+      "logoUrl": "",
+      "sourceUrl": "https://www.propertiesinportugal.com/vigintitrium-real-estate/properties/for-sale",
+      "propertyCount": 0,
+      "location": "Rua Gomes Freire, Nº 23 , 2700-428 Amadora"
+    },
+    {
+      "slug": "vilagarve",
+      "name": "Vilagarve",
+      "ami": "11580",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/vilagarve.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/vilagarve/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "villamarket",
+      "name": "Villamarket",
+      "ami": "14870",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Villamarket.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/villamarket/properties/for-sale",
+      "propertyCount": 49,
+      "location": "Rua do Movimento das Forças Armadas nº 74 , Edifício Albuera, Loja A, Fração AL, 8200-157 Albufeira"
+    },
+    {
+      "slug": "volumespiral",
+      "name": "Volumespiral",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Volumespiral.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/volumespiral/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "webimspot",
+      "name": "Webimspot",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Webinspot.jpg",
+      "sourceUrl": "https://www.propertiesinportugal.com/webimspot/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "western-algarve",
+      "name": "Western Algarve",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Western-Algarve.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/western-algarve/properties/for-sale",
+      "propertyCount": 0,
+      "location": ""
+    },
+    {
+      "slug": "wilderness-investments--real-estate",
+      "name": "Wilderness Investments - Real Estate",
+      "ami": "20498",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/wilderness-investments.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/wilderness-investments--real-estate/properties/for-sale",
+      "propertyCount": 58,
+      "location": ""
+    },
+    {
+      "slug": "winds-of-knowledge-unipessoal-lda",
+      "name": "Winds of Knowledge Unipessoal Lda",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Winds-of-Knowledge-Unipessoal-Lda.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/winds-of-knowledge-unipessoal-lda/properties/for-sale",
+      "propertyCount": 63,
+      "location": ""
+    },
+    {
+      "slug": "wps--world-property-solutions",
+      "name": "WPS - World Property Solutions",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/World-Property-Solutions.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/wps--world-property-solutions/properties/for-sale",
+      "propertyCount": 27,
+      "location": ""
+    },
+    {
+      "slug": "x-casa--criativos-inatos-unipessoal-lda",
+      "name": "X CASA - CRIATIVOS INATOS, UNIPESSOAL LDA",
+      "ami": "24739",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/logo-xcasa.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/x-casa--criativos-inatos-unipessoal-lda/properties/for-sale",
+      "propertyCount": 12,
+      "location": ""
+    },
+    {
+      "slug": "your-luxury-property",
+      "name": "Your Luxury Property",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/1565-logo-ylp.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/your-luxury-property/properties/for-sale",
+      "propertyCount": 28,
+      "location": ""
+    },
+    {
+      "slug": "zonasmagicas",
+      "name": "zonasmagicas",
+      "ami": "",
+      "logoUrl": "https://www.propertiesinportugal.com/uploads/user/Zonas-Magicas.png",
+      "sourceUrl": "https://www.propertiesinportugal.com/zonasmagicas/properties/for-sale",
+      "propertyCount": 227,
+      "location": ""
+    }
+  ]
+}

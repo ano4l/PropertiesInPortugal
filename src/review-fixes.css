@@ -1,0 +1,33 @@
+.coastal-grid .specs { color: #d6e5df; }
+.destination { min-width: 0; background: #214d48; }
+.destination::after { pointer-events: none; }
+.destination-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-rows: repeat(3, 240px);
+}
+.destination.d0 { grid-area: 1 / 1 / 3 / 3; }
+.destination.d1 { grid-area: 1 / 3 / 2 / 4; }
+.destination.d2 { grid-area: 1 / 4 / 2 / 5; }
+.destination.d3 { grid-area: 2 / 3 / 3 / 4; }
+.destination.d4 { grid-area: 2 / 4 / 3 / 5; }
+.destination.d5 { grid-area: 3 / 1 / 4 / 5; }
+.agency-directory-hero, .news-hero, .directory-section { overflow: hidden; }
+.directory-section .agency-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); min-width: 0; }
+.directory-section .agency-card,
+.directory-section .agency-card > div { min-width: 0; }
+.directory-section .agency-card h2,
+.directory-section .agency-card p { overflow-wrap: anywhere; word-break: normal; }
+.agency-logo { flex: none; }
+@media (max-width: 1000px) {
+  .destination-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-rows: repeat(3, 240px); }
+  .destination.d0, .destination.d1, .destination.d2, .destination.d3, .destination.d4, .destination.d5 { grid-area: auto; min-height: 0; }
+  .directory-section .agency-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .directory-section .agency-card { grid-template-columns: 66px minmax(0, 1fr); padding: 22px; }
+}
+@media (max-width: 680px) {
+  .destination-grid { grid-template-columns: 1fr; grid-template-rows: repeat(6, 210px); }
+  .destination:first-child { min-height: 0; }
+  .directory-section .agency-grid { grid-template-columns: minmax(0, 1fr); }
+  .directory-section .agency-card { width: 100%; grid-template-columns: 58px minmax(0, 1fr); gap: 15px; padding: 18px; }
+  .agency-logo { width: 58px; height: 58px; }
+}
