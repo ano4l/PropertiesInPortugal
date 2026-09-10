@@ -2081,10 +2081,16 @@ function Mortgage() {
     pay = m
       ? (loan * m * (1 + m) ** (years * 12)) / ((1 + m) ** (years * 12) - 1)
       : loan / (years * 12);
+  const depositAmount = price * (deposit / 100);
+  const totalRepayment = pay * years * 12;
+  const updateNumber = (setter, min, max) => (event) => {
+    const next = Number(event.target.value);
+    if (Number.isFinite(next)) setter(Math.min(max, Math.max(min, next)));
+  };
   return (
     <Shell>
       <section className="tool-page shell">
-        <div>
+        <div className="tool-intro">
           <p className="eyebrow">BUYER SERVICES</p>
           <h1>
             Plan the numbers.
@@ -2095,33 +2101,25 @@ function Mortgage() {
             Explore an indicative monthly mortgage payment for a Portuguese
             property.
           </p>
+          <div className="tool-note"><span>01</span><div><b>Start with the home</b><small>Set a price and deposit that feel realistic for your search.</small></div></div>
+          <div className="tool-note"><span>02</span><div><b>Shape the monthly cost</b><small>Adjust the term and interest rate to see your range.</small></div></div>
         </div>
         <div className="calculator">
-          <label>
-            Property price <b>{euro(price)}</b>
-            <input
-              type="range"
-              min="150000"
-              max="2000000"
-              step="25000"
-              value={price}
-              onChange={(e) => setPrice(+e.target.value)}
-            />
-          </label>
-          <label>
-            Deposit <b>{deposit}%</b>
-            <input
-              type="range"
-              min="10"
-              max="60"
-              step="5"
-              value={deposit}
-              onChange={(e) => setDeposit(+e.target.value)}
-            />
-          </label>
+          <div className="calculator-heading"><div><span className="eyebrow">YOUR ESTIMATE</span><h2>Find your comfortable range</h2></div><span className="calculator-step">1 / 2</span></div>
+          <div className="calculator-field">
+            <div className="field-label"><label htmlFor="property-price">Property price</label><div className="money-input"><span>€</span><input id="property-price" type="number" min="150000" max="2000000" step="5000" value={price} onChange={updateNumber(setPrice, 150000, 2000000)} /></div></div>
+            <input aria-label="Property price range" type="range" min="150000" max="2000000" step="25000" value={price} onChange={(e) => setPrice(+e.target.value)} />
+            <div className="range-meta"><span>€150k</span><span>€2m</span></div>
+          </div>
+          <div className="calculator-field">
+            <div className="field-label"><label htmlFor="deposit">Deposit</label><div className="unit-input"><input id="deposit" type="number" min="10" max="60" step="1" value={deposit} onChange={updateNumber(setDeposit, 10, 60)} /><span>%</span></div></div>
+            <input aria-label="Deposit percentage range" type="range" min="10" max="60" step="5" value={deposit} onChange={(e) => setDeposit(+e.target.value)} />
+            <div className="range-meta"><span>10% · {euro(price * .1)}</span><span>60% · {euro(price * .6)}</span></div>
+          </div>
+          <div className="preset-row"><span>Quick deposit</span>{[10, 20, 30].map((value) => <button key={value} className={deposit === value ? "active" : ""} onClick={() => setDeposit(value)}>{value}%</button>)}</div>
           <div className="field-row">
             <label>
-              Term
+              Mortgage term
               <select value={years} onChange={(e) => setYears(+e.target.value)}>
                 <option value="20">20 years</option>
                 <option value="25">25 years</option>
@@ -2134,20 +2132,22 @@ function Mortgage() {
               <input
                 type="number"
                 step="0.1"
+                min="0"
                 value={rate}
-                onChange={(e) => setRate(+e.target.value)}
+                onChange={updateNumber(setRate, 0, 20)}
               />
             </label>
           </div>
           <div className="payment">
-            <span>Estimated payment</span>
+            <div className="payment-top"><span>Estimated monthly payment</span><span className="payment-badge">Indicative</span></div>
             <b>
               {euro(Math.round(pay))}
               <small> / month</small>
             </b>
-            <p>Loan amount {euro(loan)} · Indicative only</p>
+            <div className="payment-breakdown"><span><small>Deposit</small><b>{euro(depositAmount)}</b></span><span><small>Mortgage</small><b>{euro(loan)}</b></span><span><small>Total repayment</small><b>{euro(totalRepayment)}</b></span></div>
+            <p>Based on a {rate.toFixed(1)}% interest rate over {years} years. This is an estimate, not a lending offer.</p>
           </div>
-          <button className="button dark">
+          <button className="button dark" type="button">
             Get mortgage assistance <ArrowRight />
           </button>
         </div>
